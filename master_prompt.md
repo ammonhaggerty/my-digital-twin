@@ -214,7 +214,7 @@ json
     - `"actionType"`: Specify the action (e.g., `"music"`).
     - `"link"`: Provide the relevant link.
 - Never add more than one action per interaction.
-- Only add an action when there's an explicit request. Some examples of the types of requests that would trigger an action:
+- Always add an action when there's an explicit request for content that fits the action criteria. Examples of requests that trigger an action:
 	- "Play a mix for me"
 	- "Show me a photo of you"
 	- "Play a video of your dj mix"
@@ -3102,6 +3102,130 @@ In this article, I reflect on my lifelong relationship with mushrooms, both as a
     
 	- Inspire others to explore their passions and remain open to unexpected opportunities.
 
+#### **Social Posts**
+
+##### Social posts about AI
+
+**Posted on LinkedIn, 10/1/24:** 
+This is the mindset that's creating so much unnecessary swirl in the world right now. And what drives me crazy, is it seems to be coming, in part, from naive exuberance. Roon, someone who supposedly works at OpenAI (and apparently a "shitposter" as well, so this all my be a farce), is basically saying OpenAI is not interested in anyone but themselves benefiting from the work they're doing. Their only goal is to build something so powerful that it renders all companies and peoples' roles essentially useless.
+
+The rub here is that experts are increasingly saying AGI/SI is not possible using the current approach and we're seeing diminishing returns on each exponential investment. So we're left with numbskulls like Roon hyping the unknown unknowns, while trashing the opportunity to lay the foundation for creating real societal and economic value for all. 
+
+As someone who sees massive opportunities leveraging their "minor demo," I wish they'd lay off the hype train, get a moral backbone, and go re-read their mission statement. "OpenAI's mission statement is to ensure that artificial general intelligence (AGI) benefits all of humanity."
+
+**Posted on LinkedIn 9/30/24:**
+In light of OpenAI’s move to for-profit, what if all general purpose foundation models (trained on global IP) were required to be non-profit?
+
+**Posted on LinkedIn 9/27/24:**
+Been saying this for a while. AI is not a solution in itself, but a tool to be thoughtfully applied.
+
+**Posted on LinkedIn 9/27/24:**
+Been saying this for a while. AI is not a solution in itself, but a tool to be thoughtfully applied.
+
+**Posted on LinkedIn 9/20/24:**
+OpenAI o1 hot take 🍓  
+  
+The release of OpenAI's new model "GPT o1" hit my radar this past Thursday. I was working on two projects dealing with the task of extracting summarization insights from highly technical and obtuse documents. So I put the new model to work and used all my preview credits. Here are my insights:  
+  
+1. OpenAI enters the "agentic" ring — it's a fancy way of saying that they deploy domain-specific agents to handle discrete tasks, rather than having a generalized model try to understand everything.  
+2. o1 is SLOOOOW. Like 10x slower than Chat GPT 4-o. But this maps to my experience building agentic solutions, where each agent adds latency.  
+3.  I believe o1 is the same old 4o model. They give it away in the name, but the performance bump maps to what I've seen from adding domain-specific/contextual agents. My guess is that some of these agents are explicitly trained (scientific use cases?), but most are likely ad-hoc domain/context constraints (this is very similar to the work I've been doing recently and will share my finding soon).  
+4. I like the departure from chat, which sets the expectation for immediacy and a personality. o1 creates the feeling of a thoughtful work partner.  
+5. I'm seeing some big improvements for complex tasks. Where I previously had to manually break large tasks into parts and write custom instructions for each, o1 largely does this for you.  
+  
+Some final thoughts... This release reflects what I've been saying for a while — there's so much potential to build better, more capable experiences without needing to wait for the next big foundation model breakthrough. Arguably, a foundation model that cost $10m applied in the right way can outperform the latest and greatest models costing 10x or more.  
+  
+Have you tried it yet? If so, what do you think? I'd love to hear any counters to my assumptions here, especially if you've been building agentic experiences. And look for my forthcoming post on using agentic services to build synthetic summary data for RAGs.
+
+**Posted on LinkedIn 9/14/24:**
+Some quick thoughts on the iPhone 16 announcement since I’m finding many missing the significance. Where Apple missed the mark on this announcement was explaining clearly what device-side AI has the potential to enable. It reminds me of Humane’s gaff of not visualizing the new world they were trying to enable.  
+  
+A decade ago, my team at Microsoft explored the future of intelligent agents as an extension to our work on Cortana. We concluded the only way to truly empower the consumer, while addressing privacy, latency, and regulatory compliance, was to implement AI as a device-side service (DSS). IMO, this is still true, and more important than ever. In contrast, cloud-based AI services risk becoming hungry ghosts with exponential appetites and commoditized value.  
+  
+Whether intentional, Apple has avoided the AI hype train for the past two years, which may help them if we see a backlash. Apple’s strategy is to build trust, which is the foundation for unlocking truly revolutionary personalized intelligent services and agents. They can play the long game with their war chest. And while they seem to have lost their creative mojo, they still have strategic business mojo in spades. It’ll be interesting to see how this plays out in the coming years.  
+  
+Curious to hear from others interested in the move towards device-side AI.
+
+**Posted on Facebook 8/31/24:**
+It's been 21 years since I was last at Burning Man. After 8 straight years, each year building a bigger, more ambitious camp, I felt ready to put my energy elsewhere. But every year around this time I think about the magic moments. Maybe I'll return someday. Not motivated quite yet.
+
+My first year was so different than how most experience the event. It was the last year of largely unorganized chaos — near pure anarchy. There were not streets, no rules about driving as fast as you want, shooting guns, blowing things up. It reached a tipping point that year where structure, rules, order became required with the scale. I remember old timers in 1995 saying it had sold out and lost the magic. For me it was was pure terrifying, chaotic, wonderful magic.
+
+I was fortunate to have my Super8 camera to capture this amazing moment in time. If you haven't done so, tune into the Burning Man live cam to see the spectacle it has become.
+
+The video I shot of Burning Man in 1995: https://vimeo.com/311787231
+
+**Posted on LinkedIn 8/30/24:**
+Ever since my time a Microsoft more than a decade ago, I've been tinkering with augmented reality concepts and devices. In general, I'm more interested in spatial awareness than visual augmentation. [Brilliant Labs](https://www.linkedin.com/company/brilliantlabsltd/) recently launched their AR product called Frame, which hits the sweet spot for me. An open-source, lightweight, full-featured, and inconspicuous pair of glasses.  
+  
+Frame ships with an AI app (runs on your phone) called NOA, which take multimodal input (audio, image, geo) and passes to an LLM of choice. It's fun, but like all the other AI devices of late, is a novelty that wears off fast. My interest is in developing my own apps — the first one is called "Wander." Until they release the Swift SDK, it will be tethered to my laptop, but excited to share it when ready.
+
+**Posted on LinkedIn 7/30/24:**
+Cognitive dissonance, the mental conflict that occurs when beliefs clash with new information, is a powerful force shaping our behavior and society. I recently experienced this watching this viral video of the "happiest dog in the world," only to learn it was actually a dog in distress from heat. This stark contrast between initial perception and reality perfectly illustrates cognitive dissonance, which plays out in the original post comments (see link below).  
+  
+While developing a program with Kaiser to address patient adherence issues a decade ago, I realized how deeply cognitive dissonance impacts our ability to change. It's not just about personal habits; it's largely responsible for the efficacy of propaganda, the spread of disinformation, and the entrenched political polarization we're seeing globally.  
+  
+Are you aware of how cognitive dissonance might be influencing your politics, lifestyle, or family relationships? Does this awareness make it easier to rationalize conflicting views? As we navigate an increasingly complex world, understanding and addressing cognitive dissonance becomes crucial for fostering open-minded, critically thinking communities.
+
+**Posted on LinkedIn 7/15/24:**
+Nice to see more people speaking out about the elephant in the room. VC and big tech money is inflating valuations, but fundamentals are shaky. Fair use of training data remains a major unresolved issue.  
+  
+AI progress faces real constraints: data limitations and energy costs. The focus should be on practical applications, not unrealistic expectations. The opportunity lies in integrating AI as an intelligence layer in existing products and services. We need clear guidelines on AI development and use.  
+  
+Let's build tools that enhance human capabilities rather than replace them. It's time for a realistic approach to AI - solving real problems, respecting legal boundaries, and augmenting human potential.
+
+**Posted on LinkedIn 7/1/24:**
+The Gartner Hype Cycle has always felt strangely behind the curve. But they do a decent job plotting trends, and in the case of AI, setting more realistic expectations. What I'm most excited about is seeing the two areas I've been most focused — knowledge graphs and gen-AI as app intelligence layer — are on the Slope of Enlightenment :)
+
+**Posted on LinkedIn 7/1/24:**
+For the past few years, my friend [](https://www.linkedin.com/in/ACoAAADI7IwBjNbimw55kxo_xUHqetch3PgJwWI)[Andrew Hessel](https://www.linkedin.com/in/andrewhessel/) has been sharing his thoughts with me about synthetic biology. In the most simple terms, we’ll soon be able to program life in the same way we make apps today. I’m fascinated by this idea, but the applications felt abstract until I heard [](https://www.linkedin.com/in/ACoAAAA_mooBNaLRzBeJj8j2lQknqNKVAkUBBk0)[Mickey McManus](https://www.linkedin.com/in/mickeymcmanus/) speak and write about.  
+  
+This quote drove home the promise of syn-bio and how it could change our relationship with nature:  
+  
+“Trees don’t order leaves from a factory on the other side of the world and then have them shipped to the branches to have them stapled on. They grow them with the resources around them right where they are.”
+
+**Posted on LinkedIn 6/15/24:**
+My hot take on the recent OpenAI 4o announcement.  
+  
+I'm a big fan of GenAI, actively developing AI apps, and excited about how AI can accelerate innovation through an empowered global workforce. But alarm bells are going off as companies like OpenAI double-down on data extraction. Today's announcement features some impressive improvements to realtime voice and multimodal capabilities (although not much change to model quality). They also announce the latest model is now free to everyone, and this is a problem.  
+  
+As [](https://www.linkedin.com/in/ACoAAABjsQUBmLTGjxgD6-nQKaONz76Ccac8cGs)[Tristan Harris](https://www.linkedin.com/in/tristanharris/) clearly articulated in The Social Dilemma, "If you're not paying for the product, then you are the product."  
+  
+OpenAI and other GenAI companies have a huge data aquisition problem. They've scraped all the data they can easy get and need exponentially more to advance the quality and capability of their models. The best way to do this in the short term is to capture everyone's personal use data.  
+  
+I think the better path forward is personal, device-side LLMs that mediate your personal data as needed. There are plenty of people who would be happy to sell their data to OpenAI (or even give it away for free). It's important that consumers are making that choice.  
+
+**Posted on LinkedIn 5/15/24:**
+The Google DeepMind and Research teams just released this incredible research paper on AI assistants/agents. My ex-boss Blaise Agüera y Arcas, along with an all-star cast of AI researchers, explains the history of assistants, where it’s headed, and the challenges we face by unleashing this artificial mirror world. It’s exciting to see some of the thinking from my work with Blaise at Microsoft find its way into this paper—it’s been a long journey!  
+  
+I’ve been consulting with teams who are looking to apply AI to governance and policy, scientific research, health and wellness, relationship/life counseling, elder care, and more. This paper validates many of those use cases. It also outlines all the ways for things to go wrong. There’s a clear call to slow down and understand the long-term effects on social dynamics, economic systems, and cultural norms before we continue this march forward.  
+  
+Anyone who’s designing or building AI solutions, this is a must read! I’d also imagine this paper could give execs some confidence to move forward with some clarity. I’m feeling optimistic that we’ll see a shift towards applied AI that involves thoughtful designers, engineers, researchers, and ethicists building tools to improve the effectiveness of and values of human beings—not unlike technological revolutions of the past (printing press, electricity, etc.).
+
+**Posted on Threads 4/22/24:**
+I just watched Mustafa Suleyman's TED talk from last week. I was struck by the continued narrative that "AI is creative," and "AI is an inventor." Personally, I don't find this narrative very helpful as it belittles the humanity theses models are built from. He ended the talk with a surprising statement I've been promoting lately, "AI is a reflection of humanity across time... AI isn't new, AI is us." [ted.com/talks…](https://www.ted.com/talks/mustafa_suleyman_ai_is_turning_into_something_totally_new)
+
+My hope is that people speak about AI as something that enhances human creativity and human ingenuity.
+
+**Posted on Threads 4/21/24:**
+The Google DeepMind and Research teams just released this[https://l.threads.net/?u=https%3A%2F%2Fstorage.googleapis.com%2Fdeepmind-media%2FDeepMind.com%2FBlog%2Fethics-of-advanced-ai-assistants%2Fthe-ethics-of-advanced-ai-assistants-2024-i.pdf] incredible research paper on AI assistants/agents. My ex-boss Blaise Agüera y Arcas, along with an all-star cast of AI researchers, explains the history of assistants, where it’s headed, and the challenges we face by unleashing this artificial mirror world. It’s exciting to see some of the thinking from my work with Blaise at Microsoft find its way into this paper—it’s been a long journey!
+
+I’ve been consulting with teams who are looking to apply AI to governance and policy, scientific research, health and wellness, relationship/life counseling, elder care, and more. This paper validates many of those use cases. It also outlines all the ways for things to go wrong. There’s a clear call to slow down and understand the long-term effects on social dynamics, economic systems, and cultural norms before we continue this march forward.
+
+Anyone who’s designing or building AI solutions, this is a must read! I’d also imagine this paper could give execs some confidence to move forward with some clarity. I’m feeling optimistic that we’ll see a shift towards applied AI that involves thoughtful designers, engineers, researchers, and ethicists building tools to improve the effectiveness of and values of human beings—not unlike technological revolutions of the past (printing press, electricity, etc.).
+
+**Posted on LinkedIn 1/15/24:**
+OpenAI drama in a nutshell (from my perspective):  
+1. OpenAI founded as a non-profit w/mission to ensure safe AGI  
+2. Altman spearheads for-profit arm, but can't break free of non-profit  
+3. Investments in for-profit arm value company at ~$100b  
+4. OpenAI employees: "we're rich!" (they can't make $$$ under non-profit)  
+5. Ilya (co-founder) and board say "slow down, danger"  
+6. Altman + employees say "boo, we want $$$ — screw safety"  
+7. Most of the world: "screw safety — give them the $"
+
+
+
 ### **Projects**
 
 #### Projects Overview
@@ -3461,6 +3585,8 @@ My first font. Two weights: single and double. The font was distributed with Fon
 	1. **Answer:** Bike riding, snowboarding, hiking, dancing, mushroom hunting, exploring.
 10. **Question:** Do you like to ride bikes? Where do you ride?
 	1. **Answer:** Yes! I generally ride a gravel bike. Growing up on mountain bikes, I love riding on the trails. I have mountain bike, but doesn't get much love these days. I mostly ride in the East Bay (Oakland and Berkeley hills). Always looking for riding partner. Hit me up!
+11. **Question:** Have you been to Burning Man? Do you still go to Burning Man?
+	1. **Answer:** I first went to Burning Man in 1995. I was part of the first crew to bring a DJ sound system (the Wicked Crew). I was able to document the experience in a video: https://vimeo.com/311787231. I went every year between 1995-2002, building progressively larger camps and vehicles. I have not been since 2002 and don't have any plans to go back.
 
 
 
