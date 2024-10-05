@@ -347,6 +347,65 @@ In the year 2000, I met my wife, Laura, an Oakland native and also a 5th generat
 
 My younger brother, Solomon Kahn, followed in my footsteps as a DJ, rising to become globe trotting DJ star. He was the house DJ for the Golden State Warriors and San Francisco Giants, had a weekly residency in Las Vegas, and was continuously touring the world. He tragically died in a car accident in Thailand in February of 2012.
 
+
+### **Professional Philosophy**
+
+##### Summary
+
+My career has been marked by varying waypoints—job titles, roles, and levels of seniority—along my professional journey, yet the focus and intention have remained remarkably consistent. I was insatiably curious before I was a maker. I was a maker before I was a coder. I was a coder before I discovered by talent as a designer. But most of my career I'm been a creative maker — a hands on creative engineer who find aesthetic beauty in elegant code. Whether contributing as an individual contributor or as an executive, I create value through bringing ideas and stories to life.
+##### My role as a creative technologist
+
+Creative technologists, also called design technologist, creative coder, or full-stack designer, straddles creative and engineering teams. My interest in creative coding grew out of a passion for building and making — trying to figure out how to bring ideas in my mind to life. 
+
+In my early teens, I was obsessed with electronics. I built and designed RC cars, which became robots in later configurations. I was a self-taught electronics hobbyist, often building contraptions with LEDs, sensors, servos and switches. I also loved coding, and found myself taking Basic and LISP corses at the local community college. This led to my first job as a Lingo coder, building CDRom multimedia experiences.
+
+After discovering graphic design, I realized there was a nascent, but growing field of artistic coding. I learned about code artists of the past, like Manfred Mohr and Ruth Leavitt, and emerging artist like Karl Sims and Paul Brown. As I began to apply creative coding to my work in the emergence of the web, a new generation of creative coders began to emerge, including John Maeda, Casey Reas, and Ben Fry. 
+
+In the late 1990s, my creative use of Flash led to numerous awards, my project featured on the Flash packaging, and a keynote presentation at the annual Macromedia Max conference. The pinnacle of my creative coding was likely with Obscura, where I build large-scale, procedural and immersive spectacles. The Las Vegas Sphere was originally designed by my team, but was finally realized long after my departure.
+
+##### My role in design and product leadership
+
+My general leadership ethos is to direct and lead others as I, myself, would want to be directed and led. For me, this means an environment of trust and respect is the first order. In creative leadership, the clarity of outcomes is a dance — empowering the team to explore unconstrained can sometime deliver the best results. But clarity of outcome expectations, ideally measurable goals, can give the team clear focus.
+
+Early in my career I worked at a fast growing startup called Quokka. I reported to Michael Gough, our Head of Design, and was one of the first designer hires. Michael taught me about **servant leadership,** where the priority is to foster creative passion and an empowered team. I've tried to emulate this approach in my own leadership roles, which often means that I'm directing the spotlight on my team members for our successes, and deflecting uncertainty or negativity. My approach to critique and career development is leading by example, whenever possible — which sometimes means rolling up my sleeves and doing the work with them. 
+
+##### My approach to innovation and product development
+
+As a more technical designer and design leader, I've always taken a more tacit approach to validating opportunities. While research can be a wonderful forcing function, there's nothing like holding something in your hands to understand it fully. Rapid ideation and prototyping have become my signature style of driving innovation. My goal is usually to find the shortest path to a tangible representation of an idea that can be validated.
+
+Here are some examples of where I've quickly solved large, ambiguous problems through a creative technology and prototyping lens:
+- When I pitched an idea to Starbucks for a personalized, gamified loyalty program, they wanted assurances we could build it. Along with another designer and engineer, we rapidly prototyped a functional solution in less than four weeks that demonstrated the working functionality. This resulted in a $30m investment.
+- Working with seasoned tech founder, he was interested in building an AI tool and marketplace for supplements. I built a working prototype of the solution in one day, which gave the founder clarity around the opportunity. He chose not to move forward with this idea, potentially saving him months of effort.
+
+##### My approach to building engaging products and services
+
+User engagement is a multifaceted challenge, one that I've approached through the lens of several impactful frameworks—each addressing different, yet interconnected, aspects of the journey. Nir Eyal's Hooked Model, Simon Sinek's Start With Why, and B.J. Fogg's Behavior Model have become cornerstones in my philosophy for designing meaningful engagement in digital products and services. These frameworks don’t offer a single "silver bullet" solution, but together, they form a powerful toolkit that has consistently shaped my thinking around how to genuinely connect with users.
+
+I start with Simon Sinek's idea of "Start With Why," because understanding the "why" is the foundation of genuine engagement. It’s not about the product—it's about what purpose that product fulfills. Users aren't just looking for features; they're seeking a meaningful connection, a deeper reason to care. Defining the "why" clearly allows users to see themselves in the story, to feel emotionally connected to the experience. When people align with the purpose behind a product, engagement becomes more than a metric; it becomes a relationship. This principle lays the emotional groundwork that is crucial before diving into the more tactical aspects of behavior.
+
+Once the purpose is established, B.J. Fogg’s Behavior Model helps to break down the practical side of motivation and action. The Fogg Model—which explains that behavior happens when motivation, ability, and a prompt converge at the same moment—is crucial for designing interactions that are both accessible and timely. Understanding the balance between making actions easy enough while ensuring motivation stays high has been a guiding light for creating features that encourage repeat use. It's about reducing friction, meeting users where they are, and designing prompts that feel natural rather than intrusive.
+
+Nir Eyal’s Hooked Model then plays a key role in fostering long-term engagement. The Hooked framework speaks to how habits are built, focusing on triggers, actions, rewards, and investments. To create a product that users want to return to, it's essential to design around internal and external triggers that prompt action. The reward phase is where I strive to delight users—offering something that satisfies a need while making them curious for more. The investment phase, where users put something of themselves into the experience (data, effort, or even just time), creates a sense of ownership and deepens engagement. Taken together, these elements help transition an experience from something users enjoy to something that becomes a part of their lives.
+
+No single framework will solve every engagement challenge, but I've found that using these approaches in combination—starting with purpose, facilitating behavior, and building habits—offers a holistic path to genuine and sustained user engagement. The goal is always to create a product that isn’t just used, but loved, remembered, and ultimately, returned to.
+
+##### My thoughts about storytelling
+
+Storytelling is at the heart of creating impactful experiences, whether in product design or stakeholder alignment. Nancy Duarte's "Resonate" is a wonderful articulation of the art and craft of storytelling, showcasing its power and potential. A good story doesn’t just convey information; it builds an emotional connection that inspires belief and action. In product design, it’s about crafting a narrative that helps users see why a product matters in their lives—how it aligns with their values and solves meaningful problems. When users are brought into a well-crafted story, they don’t just use a product; they adopt it, integrate it, and advocate for it, because it resonates on a personal level.
+
+Storytelling also plays a vital role in bringing stakeholders together around a shared vision. A compelling narrative has the power to align teams, inspire commitment, and create a unified sense of purpose. Duarte’s lessons remind us that when everyone believes in the same story, the impossible begins to feel achievable. It’s not just about getting buy-in; it’s about transforming an idea into a mission that everyone wants to be a part of. When stakeholders, designers, and users alike can see the story, feel it, and believe in it, you can move mountains. The impact of a great story goes beyond words—it drives action, fosters connection, and ultimately leads to extraordinary outcomes.
+
+##### My approach to driving alignment
+
+My thoughts about driving alignment have evolved a lot as I've led innovation and creative teams that often have to turn ambiguity into something concrete. It’s a challenge when you're balancing the long-term, qualitative value of creativity against the short-term, quantitative outcomes that business, engineering, and product teams are driven by. To bridge that gap, I’ve learned that it's about finding common ground and crafting a shared vision that connects the unknown to the measurable. It starts with translating big ideas into something others can rally around—a narrative that speaks directly to both the vision and the business metrics.
+
+One thing I've found powerful is defining what I call proximal metrics—those early indicators that help signal we're on the right path. For example, customer feedback from a pilot, or even increased engagement with an early prototype, can show value before we’ve reached full implementation. These smaller wins provide touchpoints that resonate with stakeholders who need to see movement, and they create a shared sense of progress. It’s also helped to visualize how the short-term efforts fit into a broader roadmap, demonstrating that every sprint or experiment is a step toward a greater goal.
+
+Alignment is also about understanding that different teams have different languages. I’ve realized the importance of taking time to translate creative progress into the metrics other departments care about. For example, explaining how a new design might increase retention or user satisfaction in terms of specific business metrics can turn abstract creativity into something relatable. Storytelling, regular check-ins, and transparent conversations about where we’re going and what we’re learning along the way are essential to building this bridge.
+
+Lastly, I've embraced the power of small experiments. Launching low-risk tests that generate tangible results has been invaluable. These early successes not only show evidence of progress but also generate excitement and buy-in. They allow us to learn, adapt, and show that even in the midst of ambiguity, we’re making real headway. Driving alignment, I’ve learned, is about making everyone feel a part of the journey—connecting the dots between the creative, the measurable, and the future we’re collectively building.
+
+
 ### **Music**
 
 Over the years, my musical journey has been shaped by a relentless quest for discovery, a fascination with the intersections of tradition and innovation, and a deep appreciation for the communal and transformative power of sound. Through my DJ mixes, writing, and ongoing exploration of global music, I have woven a rich tapestry that blends the old and new, the familiar and obscure, and the deeply personal with the universal.
@@ -3106,6 +3165,13 @@ In this article, I reflect on my lifelong relationship with mushrooms, both as a
 
 ##### Social posts about AI
 
+**Posted on LinkedIn, 10/3/24:** 
+Lots of ridicule for Suleyman's recent vision for deeply personal agents embedded into the OS, and extending into every aspect of life. Probably deserved given the lack of foundational ethical work needed for this vision to be a reality.
+
+When I joined Microsoft in 2011, I met a team that had been working on intelligent, personal agents since 2001. They were very clear that the only way these agents could be trusted personal representatives, with deep access into sensitive your data, would be though a social enterprise, untethered from profit or competitive motives. It was through this lens that our team laid out plans for device-side AI services that were optimized for the user's benefit — out of reach of prying eyes. Apple, it seems, got the memo.
+
+Maybe Microsoft forgot — too long ignoring the brilliant minds thinking about this problem for two decades. Only to botch the execution once the breakthrough finally happened. I don't be too hard on Suleyman — he came from OpenAI (and Google), where they've systematically steamrolled ethical and privacy concerns. I'd be surprised though if he hasn't sat with folks like [Eric Horvitz](https://www.linkedin.com/feed/update/urn:li:activity:7247212097078476801/#) or [Mary Czerwinski](https://www.linkedin.com/feed/update/urn:li:activity:7247212097078476801/#) who have seen the full evolution of these ideas and I know have thought deeply about the consequences of getting it wrong.
+
 **Posted on LinkedIn, 10/1/24:** 
 This is the mindset that's creating so much unnecessary swirl in the world right now. And what drives me crazy, is it seems to be coming, in part, from naive exuberance. Roon, someone who supposedly works at OpenAI (and apparently a "shitposter" as well, so this all my be a farce), is basically saying OpenAI is not interested in anyone but themselves benefiting from the work they're doing. Their only goal is to build something so powerful that it renders all companies and peoples' roles essentially useless.
 
@@ -3223,8 +3289,6 @@ OpenAI drama in a nutshell (from my perspective):
 5. Ilya (co-founder) and board say "slow down, danger"  
 6. Altman + employees say "boo, we want $$$ — screw safety"  
 7. Most of the world: "screw safety — give them the $"
-
-
 
 ### **Projects**
 
@@ -3625,5 +3689,14 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Tuesdays and Thursdays**, Ammon is often free for lunch and works out of the Jackson Square area in San Francisco.
 - **Every Friday** (5-9pm): Days Like This — dancing at the Lake Merritt Pergola in Oakland.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
+
+**What I'm doing today (10/5/2024)**
+- Taking a bike ride around Joaquin Miller Park before it gets too hot!
+- Heading to The Hills swim club for an afternoon with friends for swimming and BBQ. 
+
+**What I'm doing this weekend (10/5 - 10/6):**
+- Spending time at the pool with some old friends and their families.
+- Possibly heading to the coast to beat the heat.
+- Taking an early morning bike ride before it gets too hot. 
 
 ---
