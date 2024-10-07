@@ -6,7 +6,7 @@
 
 ## 📖  Table of Contents
 
-1. [About The Project](#about-the-project)
+1. [About The Project](#👯-about-the-project)
 2. (History
 3. (Evaluating LLMs
 4. (Prompt engineering
