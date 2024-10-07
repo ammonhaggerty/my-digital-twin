@@ -4,7 +4,7 @@
 
 [![Watch the video](https://github.com/user-attachments/assets/491c6ff4-bce4-4447-ab98-00127870508f)](https://github.com/user-attachments/assets/dd7576db-3fd0-4973-92e0-9f4644faa5fb)
 
-## 📖  Table of Contents
+## 📖 Table of Contents
 
 1. [About The Project](#-about-the-project)
 2. [History](#-history)
@@ -17,7 +17,7 @@
 9. [Next steps](#-next-steps)
 
 ---
-## 👯  About The Project
+## 👯 About The Project
 
 The goal of my digital twin is provide a genuine representation of my professional expertise as a creative technologist and design executive, as well as insights into my personal life (hobbies, stories, family, hopes, dreams, etc.). In addition, this project is a commentary on the ethical challenges we face by sharing our lives with AI models, and the companies who build them. 
 
@@ -28,7 +28,7 @@ While this project does not currently ingest my "digital exhaust," the opportuni
 Let's dive in!
  
 ---
-## ⏳  History
+## ⏳ History
 
 One of the earliest theoretical exploration of virtual representation appeared in Star Trek's Holodeck concept. Digital clones could simulate and role-play outcomes. David Gelernter formalized the "digital twin" concept in his seminal 1991 book *Mirror Worlds*. The term "digital twin" was initially conceived as a clone of a process of system — what we're talking about here is sometimes referred to as an HDT, or "human digital twin."
 
@@ -40,7 +40,7 @@ When ChatGPT 3.5 was release, I built an initial digital twin prototype, althoug
 
 
 ---
-## 🤖  Evaluating LLMs
+## 🤖 Evaluating LLMs
 
 In early 2024, a startup called Vana released a device-side LLM project called "Selfie." My interest in privacy, and a growing distrust for foundation models use of training data, made Selfie a perfect choice for a digital twin. The initial Llama 3 model had a context size of 8k tokens, which constrained the size of the training corpus. In the end I found the computational burden of the local LLM and limited context window wouldn't work for a viable twin. Although I continue to follow the advances of open source models and local LLM servers — this will likely be the idea approach for privacy-minded people.
 
@@ -49,7 +49,7 @@ In July of 2024 I tried again with Anthropic's Claude 3.5 Sonnet. Of all the fou
 In September 2024 I  tried again with [OpenAI](https://www.linkedin.com/company/openai/), the company I love to hate, but keeps giving me what I want. For the first time I was seeing consistently good results. The breakthrough came from the expanded context window, which is stated as 128k tokens, but seems to support more than that. 
 
 ---
-## 🛠  Prompt Engineering
+## 🛠 Prompt Engineering
 
 Through trial and error, along with trading tips with others, I've developed rules and techniques for writing prompts. This project presented new challenges, as I looked to build a single prompt from approximately 40,000 words of articles, project descriptions, social posts, short stories, music descriptions and more. A breakthrough came from using ChatGPT's o1-preview, which suggested I use markdown formatting and hierarchical organization, which was counter intuitive from my past learnings. 
 
