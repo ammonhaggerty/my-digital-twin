@@ -80,7 +80,49 @@ I recognized that standard chat-based interfaces often lack creativity and fail 
 To facilitate this rich interaction, I structured the output from the language model in JSON format, broken down into three distinct types: `"reply"`, `"suggestions"`, and `"actions"`. The `"reply"` section contains an array of text chunks with optional links, providing the main content of the conversation. The `"suggestions"` include up to two short follow-up questions or prompts to guide the user further. Lastly, the `"actions"` array lists specific tasks that can be executed, such as playing a piece of music. This structured approach not only organizes the content effectively but also enhances the interactivity and responsiveness of the digital twin.
 
 The end result looks something like this:
-`{ "reply": [ { "text": "I have a variety of mixes that I love, each with its unique vibe. For instance,", "linkType": "", "link": "" }, { "text": "The Rhythm Society: Oasis", "linkType": "musicLink", "link": "<MusicPlayerID>" }, { "text": "is a deep tech house mix perfect for camping and dancing, and", "linkType": "", "link": "" }, { "text": "Sunday Sundowns 6/4/23", "linkType": "musicLink", "link": "<MusicPlayerID>" }, { "text": "offers a chill downtempo and chillstep experience, sprinkled with pop-laden dub.", "linkType": "", "link": "" } ], "suggestions": [ { "text": "Recommend more" }, { "text": "Pick one for me" } ], "actions": [ { "actionType": "music", "link": "<MusicPlayerID>" } ] }`
+`{
+  "reply": [
+    {
+      "text": "I have a variety of mixes that I love, each with its unique vibe. For instance,",
+      "linkType": "",
+      "link": ""
+    },
+    {
+      "text": "The Rhythm Society: Oasis",
+      "linkType": "musicLink",
+      "link": "<MusicPlayerID>"
+    },
+    {
+      "text": "is a deep tech house mix perfect for camping and dancing, and",
+      "linkType": "",
+      "link": ""
+    },
+    {
+      "text": "Sunday Sundowns 6/4/23",
+      "linkType": "musicLink",
+      "link": "<MusicPlayerID>"
+    },
+    {
+      "text": "offers a chill downtempo and chillstep experience, sprinkled with pop-laden dub.",
+      "linkType": "",
+      "link": ""
+    }
+  ],
+  "suggestions": [
+    {
+      "text": "Recommend more"
+    },
+    {
+      "text": "Pick one for me"
+    }
+  ],
+  "actions": [
+    {
+      "actionType": "music",
+      "link": "<MusicPlayerID>"
+    }
+  ]
+}`
 
 ---
 ## ⚙️ Assistants, RAG, realtime and context windows
