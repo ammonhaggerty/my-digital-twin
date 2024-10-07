@@ -1,11 +1,12 @@
 # My Digital Twin
 **Insights from developing a creative AI representative agent (aka Digital Twin), my assessment of tools, and my considerations for privacy, authenticity and meaningful engagement. [Give my twin a spin!](https://qaswa.com/sim)**
 
-![[https://vimeo.com/1013036306]]
+
+[![Watch the video](https://github.com/user-attachments/assets/491c6ff4-bce4-4447-ab98-00127870508f)](https://github.com/user-attachments/assets/dd7576db-3fd0-4973-92e0-9f4644faa5fb)
 
 ## 📖  Table of Contents
 
-1. (About The Project)[https://github.com/ammonhaggerty/digitaltwin#About-The-Project)
+1. [About The Project](#about-the-project)
 2. (History
 3. (Evaluating LLMs
 4. (Prompt engineering
