@@ -1,23 +1,15 @@
 # My Digital Twin
-**Insights from developing a creative AI representative agent (aka Digital Twin), my assessment of tools, and my considerations for privacy, authenticity and meaningful engagement. [Give my twin a spin!](https://qaswa.com/sim)**
 
+## 📖 Intro
+
+In this project, I'm sharing the background and approach to the making of my [Digital Twin](https://qaswa.com/sim) experiment. I'm also sharing the living #[instruction prompt](https://github.com/ammonhaggerty/my-digital-twin/blob/main/master_prompt.md)#, or "training corpus" for reference, discussion, and critique. I'm interested in discussing topics related to digital twins, proxy agents, vitual representation and more in the [Discussions tab](https://github.com/ammonhaggerty/my-digital-twin/discussions). 
+
+[Give my twin a spin](https://qaswa.com/sim) or watch the video below to see what it's about.
 
 [![Watch the video](https://github.com/user-attachments/assets/491c6ff4-bce4-4447-ab98-00127870508f)](https://github.com/user-attachments/assets/dd7576db-3fd0-4973-92e0-9f4644faa5fb)
 
-## 📖 Table of Contents
-
-1. [About The Project](#-about-the-project)
-2. [History](#-history)
-3. [Evaluating LLMs](#-evaluating-llms)
-4. [Prompt engineering](#-prompt-engineering)
-5. [Avatars, chat windows, and rich media](#-avatars-chat-windows-and-rich-media)
-6. [Assistants, RAG, realtime and context windows](#-assistants-rag-realtime-and-context-windows)
-7. [Issues of privacy and ethical AI](#-issues-of-privacy-and-ethical-AI)
-8. [Challenges](#-challenges)
-9. [Next steps](#-next-steps)
-
 ---
-## 👯 About The Project
+## 👯 About my digital twin project
 
 The goal of my digital twin is provide a genuine representation of my professional expertise as a creative technologist and design executive, as well as insights into my personal life (hobbies, stories, family, hopes, dreams, etc.). In addition, this project is a commentary on the ethical challenges we face by sharing our lives with AI models, and the companies who build them. 
 
@@ -49,7 +41,7 @@ In July of 2024 I tried again with Anthropic's Claude 3.5 Sonnet. Of all the fou
 In September 2024 I  tried again with [OpenAI](https://www.linkedin.com/company/openai/), the company I love to hate, but keeps giving me what I want. For the first time I was seeing consistently good results. The breakthrough came from the expanded context window, which is stated as 128k tokens, but seems to support more than that. 
 
 ---
-## 🛠 Prompt Engineering
+## 🛠 Prompt engineering
 
 Through trial and error, along with trading tips with others, I've developed rules and techniques for writing prompts. This project presented new challenges, as I looked to build a single prompt from approximately 40,000 words of articles, project descriptions, social posts, short stories, music descriptions and more. A breakthrough came from using ChatGPT's o1-preview, which suggested I use markdown formatting and hierarchical organization, which was counter intuitive from my past learnings. 
 
@@ -164,10 +156,10 @@ Latency and predictability also emerged as hurdles. Balancing the need for quick
 These challenges underscored the complexities inherent in creating an authentic and reliable digital twin. While the technology holds immense promise, it's clear that ongoing adjustments and thoughtful strategies are necessary to address issues like hallucinations, user guidance, and system limitations. By actively confronting these obstacles, I'm working to enhance the digital twin's performance, aiming for a more trustworthy and engaging user experience.
 
 ---
-## ⏭️ Next Steps
+## ⏭️ Next steps
 
 Now that my twin is a-live, I'm committed to nurturing it with expanded knowledge, bug fixes, UX improvements, and other enhancements. It's now a living experiment that can help me more actively learn where the boundaries are.
 
-I invite you to create your own twin and share your learnings. I'll be curious to hear what value and challenges you discover. 
+I invite you to create your own twin and share your learnings. I've made my training corpus open to clone and analyze for your own creation. My guess is my organization will be somewhat unique, but my hope is that others will benefit from the thinking behind the approach. I'll be curious to hear what value and challenges you discover. 
 
-If you'd like to track the follow this journey, along with other insights related to AI, creativity, community, ethics, spirituality, counter-culture, and music, I invite you to subscribe to my Substack — The Long Tale. https://ammon.substack.com/
+If you'd like to hear more about my insights related to AI, creativity, community, ethics, spirituality, counter-culture, and music, I invite you to subscribe to my Substack — The Long Tale. https://ammon.substack.com/
