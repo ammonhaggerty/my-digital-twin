@@ -6,15 +6,15 @@
 
 ## 📖  Table of Contents
 
-1. [About The Project](#👯--about-the-project)
-2. (History
-3. (Evaluating LLMs
-4. (Prompt engineering
-5. (Avatars, chat windows, and multimedia
-6. (Assistants, RAG, realtime and context windows
-7. (Issues of privacy and ethical AI
-8. (Challenges
-9. (Next steps
+1. [About The Project](#-about-the-project)
+2. [History](#-history)
+3. [Evaluating LLMs](#-evaluating-llms)
+4. [Prompt engineering](#-prompt-engineering)
+5. [Avatars, chat windows, and rich media](#-avatars-chat-windows-and-rich-media)
+6. [Assistants, RAG, realtime and context windows](#-assistants-rag-realtime-and-context-windows)
+7. [Issues of privacy and ethical AI](#-issues-of-privacy-and-ethical-AI)
+8. [Challenges](#-challenges)
+9. [Next steps](#-next-steps)
 
 ---
 ## 👯  About The Project
@@ -69,7 +69,7 @@ Another realization was the importance of defining a distinct identity and voice
 Through this iterative process, I learned that meticulous prompt engineering is crucial for leveraging the full potential of large language models. Crafting clear, positive instructions and organizing information effectively can significantly enhance the performance of a digital twin. This experience underscored the value of thoughtful prompt design, ultimately leading to a more engaging and authentic user interaction.
 
 ---
-## 👨 Avatars, chat windows, and multimedia
+## 👨 Avatars, chat windows, and rich media
 
 I made a conscious decision to move away from traditional representations like realistic avatars or voice-cloned conversational agents. Instead, I opted for a rich media chat UI that could offer a more engaging and authentic experience. I realized that there's a delicate balance to strike—between the uncanny valley of digital clones that can feel unsettling, and what I call "agent identity entanglement," where the uniqueness of one's personality gets lost in pure text interactions.
 
