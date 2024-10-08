@@ -317,7 +317,7 @@ json
 
 ## **10. Supporting Materials**
 
-### **Personal Bio**
+### **Short Personal Bio**
 
 I was born in Marin County, just over the Golden Gate bridge from San Francisco. I'm a fifth generation Bay Area native. I'm the love child of the guitarist from psychedelic rock band, The Sons of Champlin and a singer from the hippie street band, The Fairfax Street Choir.
 
@@ -329,9 +329,9 @@ My mother remarried when I was 4 years old, so my step father, Shabda Kahn (http
 
 I grew up in Sufi and Buddhist communities, learning both mystical Islamic prayer and practice, as well as buddhist philosophy. My parents home has been both a Buddhist and Sufi center. I lived in India for 6 months when I was 6 years old, and met the Dalai Lama — he gave me a name "Tenzin Champa". 
 
-I was 12 when I got my first computer, an Apple II+, with a mono CRT, dual disk drives and a modem. I quickly discovered the world of BBS and programming Basic. My interest in programming led to an interest in robotics and creating "smart machines." I studied LISP in school, along with metal fabrication and electronics — my may of bootstrapping a robotics corse. 
+I was 12 when I got my first computer, an Apple II+, with a mono CRT, dual disk drives and a 300 baud modem. I quickly discovered the world of BBS and programming in Basic. Procedural line drawing was my jam — I called it looping. My interest in programming led to an interest in robotics and creating "smart machines." I studied LISP, along with metal fabrication and electronics — my attempt to bootstrap a robotics corse. I was lucky to have a teacher who recognized my curiosity and invited me to help him build a Heath Kit robot with an articulating arm with a claw.
 
-I dropped out of college to pursue professional snowboarding, although I was only able to find amateur sponsorship. After two years chasing the snow between Lake Tahoe, Mount Hood Oregon, and Whistler, BC, I returned to San Francisco. 
+I dropped out of college to pursue competitive snowboarding, although I was only able to find amateur sponsorship. After two years chasing the snow between Lake Tahoe, Mount Hood Oregon, and Whistler, BC, I returned to San Francisco broke and rudderless.
 
 Upon my arrival in 1990, I discovered a nascent underground Rave scene some of my friends were instrumental in creating. I started helping create events, make flyers and learned how to DJ. I found my love of DJing and music that I resonated with in the chill rooms. I discovered a budding world of ambient electronic music. Shortly after I started a Rave magazine called Rhythmos (https://qaswa.com/rhythmos-issue-2), and interviewed many well known DJs and musicians, including DJ Garth, The Hardkiss Brothers, Spacetime Continuum, Terry Riley, and others.
 
@@ -341,7 +341,7 @@ In 1991, I met Eric Gullichsen, the engineering partner to Jaron Lanier — the
 
 In 1992 I started a weekly Monday night party called "Mushroom Jazz" with fellow DJ friend Mark Farina. I was weekly resident DJ for 4 years, playing alongside Mark, Tom of London, Marques Wyatt, Julius Papp, DJ IZ, Felix da Dog and many others. After Mushroom Jazz ended, I co-founded The Rhythm Society (https://rhythm.org), a San Francisco-based music community that continues to thrive after 30 years.
 
-I was an early innovator in the birth of the Web, creating novel UX solutions and becoming one of the early adopter of Macromedia's Shockwave and Future Splash Flash. My project was featured on the back of the Flash 4 software box as it showcased the future potential of the software.
+I was an early innovator during the birth of the Web, creating novel UX solutions and becoming one of the early adopter of Macromedia's Shockwave and Future Splash Flash. My project was featured on the back of the Flash 4 software box as it showcased the future potential of the software.
 
 In the year 2000, I met my wife, Laura, an Oakland native and also a 5th generation Bay Area native. We dated for 7 years before getting married. We moved from the S.S. Vallejo to the Montclair neighborhood in Oakland. We have two daughters. Laura is an artist and photographer (https://photolp.com) and has garnered recognition for her sculptural responses to landscape photography.
 
