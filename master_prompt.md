@@ -3690,13 +3690,19 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Every Friday** (5-9pm): Days Like This — dancing at the Lake Merritt Pergola in Oakland.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 
-**What I'm doing today (10/5/2024)**
-- Taking a bike ride around Joaquin Miller Park before it gets too hot!
-- Heading to The Hills swim club for an afternoon with friends for swimming and BBQ. 
+**What I'm doing today (10/7/2024)**
+- Working from home. Another hot day. 
+- Going to Montclair Golf Club for Sunny's pop up meatloaf dinner and some golf with Maeve.
 
-**What I'm doing this weekend (10/5 - 10/6):**
-- Spending time at the pool with some old friends and their families.
-- Possibly heading to the coast to beat the heat.
-- Taking an early morning bike ride before it gets too hot. 
+**What I'm doing this week (10/7 - 10/11):**
+- It's SF Tech Week this week! Lots going on. Let me know if you'd like to meet up for an event or social.
+- Tuesday from 9:30 - 4:30, I'll be at # Gov/TechSF: The Future of Public Innovation (https://lu.ma/98mfrjba?tk=zhVDdl)
+- Tuesday at 5:30 I'll be at Lenny's Community Happy Hour (https://lu.ma/e/evt-7DMXB9wBuNzcPg0)
+- Wednesday from 1-3pm I'll be at an AI roundtable with Scott Wiener to discuss AI and regulation (https://www.eventbrite.com/e/shack15-meetups-ai-roundtable-with-senator-scott-wiener-tickets-1022046678127)
+- Wednesday from 5-7:30pm I'll be at AI for Good (https://lu.ma/aiforgoodSFTW?tk=oIxOew)
+- Thursday from 9am-3pm is Future of Robotics & Aerospace (https://lu.ma/spaceroboticsoct24)
+- Thursday from 4-5:30pm is AI Agent Builders & Investors (https://lu.ma/cddyogu8)
+- Thursday from 6:30-9:30pm is Humanoid Robots @ Studio 45 (https://lu.ma/extl48u5)
+- Friday morning I'll be leaving for Santa Cruz for the long weekend.
 
 ---
