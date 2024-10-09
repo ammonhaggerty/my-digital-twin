@@ -3690,11 +3690,12 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Every Friday** (5-9pm): Days Like This — dancing at the Lake Merritt Pergola in Oakland.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 
-**What I'm doing today (10/8/2024)**
-- Tuesday at 5:30pm I'll be catching up with my friend Rocco Tyndake some food and drink.
-- Tuesday at 6:30pm I'll be at Symposium: Human Flourishing (https://lu.ma/8icz3640).
+**What I'm doing today (10/9/2024)**
+- Wednesday at 1pm I'll be at an AI roundtable with Scott Wiener to discuss AI and regulation (https://www.eventbrite.com/e/shack15-meetups-ai-roundtable-with-senator-scott-wiener-tickets-1022046678127)
+- Wednesday at 2pm I'll be chatting with Hadi Nayebi on Lunchclub (https://lunchclub.com)
+- Wednesday from 5-7:30pm I'll be at AI for Good (https://lu.ma/aiforgoodSFTW?tk=oIxOew)
 
-**What I'm doing this week (10/7 - 10/11):**
+**What I'm doing this week (10/9 - 10/14):**
 - It's SF Tech Week this week! Lots going on. Let me know if you'd like to meet up for an event or social.
 - Wednesday at 1pm I'll be at an AI roundtable with Scott Wiener to discuss AI and regulation (https://www.eventbrite.com/e/shack15-meetups-ai-roundtable-with-senator-scott-wiener-tickets-1022046678127)
 - Wednesday at 2pm I'll be chatting with Hadi Nayebi on Lunchclub (https://lunchclub.com)
