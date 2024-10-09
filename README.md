@@ -2,7 +2,7 @@
 
 ![qaswa-ammon](https://github.com/user-attachments/assets/1efcfcad-6064-4d6a-9491-ee28dc498ecf)
 
-In this project, I'm sharing the background and approach to the making of my [Digital Twin](https://qaswa.com/sim) experiment. I'm also sharing the living *[instruction prompt](https://github.com/ammonhaggerty/my-digital-twin/blob/main/master_prompt.md)*, or "training corpus" for reference, discussion, and critique. I'm interested in discussing topics related to digital twins, proxy agents, vitual representation and more in the [Discussions tab](https://github.com/ammonhaggerty/my-digital-twin/discussions). 
+In this project, I'm sharing the background and approach to the making of my [Digital Twin](https://qaswa.com/sim) experiment. I'm also sharing the living *[instruction prompt](https://github.com/ammonhaggerty/my-digital-twin/blob/main/master_prompt.md)*, or "training corpus" for reference, discussion, and critique. I'm interested in discussing topics related to digital twins, proxy agents, virtual representation and more in the [Discussions tab](https://github.com/ammonhaggerty/my-digital-twin/discussions). 
 
 ## Demo
 
@@ -13,39 +13,39 @@ In this project, I'm sharing the background and approach to the making of my [Di
 ---
 ## 👯 About my digital twin project
 
-The goal of my digital twin is provide a genuine representation of my professional expertise as a creative technologist and design executive, as well as insights into my personal life (hobbies, stories, family, hopes, dreams, etc.). In addition, this project is a commentary on the ethical challenges we face by sharing our lives with AI models, and the companies who build them. 
+The goal of my digital twin is to provide a genuine representation of my professional expertise as a creative technologist and design executive, as well as insights into my personal life (hobbies, stories, family, hopes, dreams, etc.). In addition, this project is a commentary on the ethical challenges we face by sharing our lives with AI models, and the companies who build them. 
 
 My digital twin is intentionally not a realistic avatar, a voice cloned conversational agent or a simple chat UI. Creating authentic AI-driven experiences is one of the interesting design challenges, and my approach is one of endless possibilities. There's a narrow band of authentic representation between the [uncanny valley](https://ammon.substack.com/p/drifting-into-the-valley) of digital clones, and the **"agent identity entanglement"** that nullifies your unique personality with pure text.
 
-While this project does not currently ingest my "digital exhaust," the [opportunity](https://ammon.substack.com/p/ambient-bionics) is to have an accurate representative that has agency and autonomy. Though this lens it's easy to see the ethical challenges we'll face from the endowed power to AI services and the potential vulnerability of our autonomous agents. 
+While this project does not currently ingest my "digital exhaust," the [opportunity](https://ammon.substack.com/p/ambient-bionics) is to have an accurate representative that has agency and autonomy. Through this lens it's easy to see the ethical challenges we'll face from the endowed power to AI services and the potential vulnerability of our autonomous agents. 
 
 Let's dive in!
  
 ---
 ## ⏳ History
 
-One of the earliest theoretical exploration of virtual representation appeared in Star Trek's Holodeck concept. Digital clones could simulate and role-play outcomes. David Gelernter formalized the "digital twin" concept in his seminal 1991 book *Mirror Worlds*. The term "digital twin" was initially conceived as a clone of a process of system — what we're talking about here is sometimes referred to as an HDT, or "human digital twin."
+One of the earliest theoretical explorations of virtual representation appeared in Star Trek's Holodeck concept. Digital clones could simulate and role-play outcomes. David Gelernter formalized the "digital twin" concept in his seminal 1991 book *Mirror Worlds*. The term "digital twin" was initially conceived as a clone of a process or system — what we're talking about here is sometimes referred to as an HDT, or "human digital twin."
 
-When I joined Microsoft in 2011, worked with a team (at the time called The Personal Cloud) that had been working on intelligent, personal agents since 2001. While this idea was not considered a digital twin, the success of the personal agent required a deep level of domain knowledge and contextual understanding. In other words, the agent would be able to act autonomously within certain contexts. 
+When I joined Microsoft in 2011, I worked with a team (at the time called The Personal Cloud) that had been working on intelligent, personal agents since 2001. While this idea was not considered a digital twin, the success of the personal agent required a deep level of domain knowledge and contextual understanding. In other words, the agent would be able to act autonomously within certain contexts. 
 
-The team was anticipating an imminent AI breakthrough that would unlock this capability. So the focus for the team was to understand the factors that would become barriers to success, which were: clear value and UX factors, trust (transparency and explainability), and privacy and security. The influence of profit motives and the risk of an AI arms-race were among of the interesting topics of discussion.
+The team was anticipating an imminent AI breakthrough that would unlock this capability. So the focus for the team was to understand the factors that would become barriers to success, which were: clear value and UX factors, trust (transparency and explainability), and privacy and security. The influence of profit motives and the risk of an AI arms-race were among the interesting topics of discussion.
 
-When ChatGPT 3.5 was release, I built an initial digital twin prototype, although I was not satisfied by the results. The quality and depth was limited, largely due to the limited context window.
+When ChatGPT 3.5 was released, I built an initial digital twin prototype, although I was not satisfied by the results. The quality and depth was limited, largely due to the limited context window.
 
 
 ---
 ## 🤖 Evaluating LLMs
 
-In early 2024, a startup called [Vana](https://www.vana.org/) released a device-side LLM project called "[Selfie](https://github.com/vana-com/selfie)." My interest in privacy, and a growing distrust for foundation models use of training data, made Selfie a perfect choice for a digital twin. The initial [Llama 3](https://ollama.com/library/llama3) model had a context size of 8k tokens, which constrained the size of the training corpus. In the end I found the computational burden of the local LLM and limited context window wouldn't work for a viable twin. Although I continue to follow the advances of open source models and local LLM servers — this will likely be the idea approach for privacy-minded people.
+In early 2024, a startup called [Vana](https://www.vana.org/) released a device-side LLM project called "[Selfie](https://github.com/vana-com/selfie)." My interest in privacy, and a growing distrust for foundation models use of training data, made Selfie a perfect choice for a digital twin. The initial [Llama 3](https://ollama.com/library/llama3) model had a context size of 8k tokens, which constrained the size of the training corpus. In the end, I found the computational burden of the local LLM and limited context window wouldn't work for a viable twin. Although I continue to follow the advances of open source models and local LLM servers — this will likely be the ideal approach for privacy-minded people.
 
-In July of 2024 I tried again with Anthropic's Claude 3.5 Sonnet. Of all the foundation models, I trust [Anthropic](https://www.linkedin.com/company/anthropicresearch/) the most with my data, as they've put privacy front/center in their policies. The quality of the insights were approach an acceptable level, but hit a wall with the context window size and the reliability of the JSON rendering.  
+In July of 2024, I tried again with Anthropic's Claude 3.5 Sonnet. Of all the foundation models, I trust [Anthropic](https://www.linkedin.com/company/anthropicresearch/) the most with my data, as they've put privacy front/center in their policies. The quality of the insights was approaching an acceptable level, but hit a wall with the context window size and the reliability of the JSON rendering.  
 
-In September 2024 I  tried again with [OpenAI](https://www.linkedin.com/company/openai/), the company I love to hate, but keeps giving me what I want. For the first time I was seeing consistently good results. The breakthrough came from the expanded context window, which is stated as 128k tokens, but seems to support more than that. 
+In September 2024, I  tried again with [OpenAI](https://www.linkedin.com/company/openai/), the company I love to hate, but keeps giving me what I want. For the first time, I was seeing consistently good results. The breakthrough came from the expanded context window, which is stated as 128k tokens, but seems to support more than that. 
 
 ---
 ## 🛠 Prompt engineering
 
-Through trial and error, trading tips with others, and some helpful resources ([here](https://www.promptingguide.ai/), [here](https://learnprompting.org/docs/introduction), [here](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)), I've developed rules and techniques for writing prompts. This project presented new challenges, as I looked to build a single prompt from approximately 40,000 words of articles, project descriptions, social posts, short stories, music descriptions and more. A breakthrough came from using ChatGPT's o1-preview, which suggested I use markdown formatting and hierarchical organization, which was counter intuitive from my past learnings. 
+Through trial and error, trading tips with others, and some helpful resources ([here](https://www.promptingguide.ai/), [here](https://learnprompting.org/docs/introduction), [here](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)), I've developed rules and techniques for writing prompts. This project presented new challenges, as I looked to build a single prompt from approximately 40,000 words of articles, project descriptions, social posts, short stories, music descriptions and more. A breakthrough came from using ChatGPT's o1-preview, which suggested I use markdown formatting and hierarchical organization, which was counterintuitive from my past learnings. 
 
 Earlier insights included some intuitive, but helpful guidelines, such as: 
 - Models respond best to clear and direct instructions.
@@ -54,7 +54,7 @@ Earlier insights included some intuitive, but helpful guidelines, such as:
 
 While working on a prior deep personalization AI project (not unlike the digital twin work) I had a breakthrough when having domain-trained agents generate synthetic summary data from structured data (e.g., tables and lists).  I had the agent generate a comprehensive summary in narrative form. My reasoning being that LLMs are largely trained on prose and extract context from clues in the sentence and paragraph. By pre-analyzing the data through a specific contextual lens (e.g., this is the bloodwork data of a 40 yo male), subsequent ingestion of the data can be parsed with generalized understanding because the context is now baked in.
 
-Based on the synthetic summary insight, I chose to convert all my long-form articles into pre-processed summaries. This involved using the GTP o1-preview to break the article into an inventory of learnings, insights, relationships, reflections, etc. One benefit is that these summary parts become modular sound bytes I see applied across related engagements.
+Based on the synthetic summary insight, I chose to convert all my long-form articles into pre-processed summaries. This involved using the GPT o1-preview to break the article into an inventory of learnings, insights, relationships, reflections, etc. One benefit is that these summary parts become modular sound bites I see applied across related engagements.
 
 Managing a large corpus of data, currently at 30,000 words, presented its own set of challenges. I found that organizing this information hierarchically allowed the model to process and retrieve details more efficiently. By structuring the data into coherent categories and subcategories, I could establish clear relationships between different concepts. This organization not only made it easier for the model to understand the context but also enhanced the consistency of its responses.
 
@@ -65,7 +65,7 @@ Through this iterative process, I learned that meticulous prompt engineering is 
 ---
 ## 👨 Avatars, chat windows, and rich media
 
-I made a conscious decision to move away from traditional representations like realistic avatars or voice-cloned conversational agents. Instead, I opted for a rich media chat UI that could offer a more engaging and authentic experience. I realized that there's a delicate balance to strike—between the uncanny valley of digital clones that can feel unsettling, and a phenomenon called "agent identity entanglement," where the uniqueness of one's personality is difficult to separate from the LLMs embedded personality.
+I made a conscious decision to move away from traditional representations like realistic avatars or voice-cloned conversational agents. Instead, I opted for a rich media chat UI that could offer a more engaging and authentic experience. I realized that there's a delicate balance to strike—between the uncanny valley of digital clones that can feel unsettling, and a phenomenon called "agent identity entanglement," where the uniqueness of one's personality is difficult to separate from the LLM's embedded personality.
 
 To capture the essence of my design leadership experience, writing, creative work, music, and hobbies, I decided to represent them in a visual and experiential manner. By integrating multimedia elements like images, audio clips, and interactive content into the chat interface, I could provide users with a more immersive experience. This approach not only showcases my diverse interests but also allows for a deeper connection with the user, as they can engage with content that goes beyond plain text.
 
@@ -149,7 +149,7 @@ Reflecting on these challenges, I've recognized the importance of establishing c
 ---
 ## 😓 Challenges
 
-As I continued to refine my digital twin, one of the primary challenges I face is constraining the model to engage solely within the information space defined by the training corpus. The AI's inherent bias to provide answers is incredibly strong, and no amount of rule-setting seems to curb its default eagerness. This often leads to the model speaking on my behalf about experiences I never had—the classic hallucination problem. For instance, when prompted with leading questions like, "Tell me about your experience as a Sandinista liberation fighter," the AI will often generate detailed but entirely fictional narratives, venturing into untethered fantasy.
+As I continued to refine my digital twin, one of the primary challenges I faced was constraining the model to engage solely within the information space defined by the training corpus. The AI's inherent bias to provide answers is incredibly strong, and no amount of rule-setting seems to curb its default eagerness. This often leads to the model speaking on my behalf about experiences I never had—the classic hallucination problem. For instance, when prompted with leading questions like, "Tell me about your experience as a Sandinista liberation fighter," the AI will often generate detailed but entirely fictional narratives, venturing into untethered fantasy.
 
 Another significant challenge was the users' lack of understanding about the depth and limits of the digital twin's knowledge. Without clear indicators, it's difficult for them to know when they have exhausted the genuine content and crossed into the realm of speculation or fabrication. This issue is compounded by the AI's propensity to fill gaps with plausible but inaccurate information. To mitigate this, I've begun incorporating a help window filled with recommended prompts organized into different subject domains. This feature guides users toward topics where the digital twin can provide meaningful and authentic insights, helping to set clearer expectations.
 
@@ -160,8 +160,8 @@ These challenges underscored the complexities inherent in creating an authentic 
 ---
 ## ⏭️ Next steps
 
-Now that my twin is a-live, I'm committed to nurturing it with expanded knowledge, bug fixes, UX improvements, and other enhancements. It's now a living experiment that can help me more actively learn where the boundaries are.
+Now that my twin is alive, I'm committed to nurturing it with expanded knowledge, bug fixes, UX improvements, and other enhancements. It's now a living experiment that can help me more actively learn where the boundaries are.
 
-I invite you to create your own twin and share your learnings. I've made my training corpus open to clone and analyze for your own creation. My organization will likely be somewhat unique, but hope others will benefit from the thinking behind the approach. I'll be curious to hear what value and challenges you discover. [Jump into the Discussions](https://github.com/ammonhaggerty/my-digital-twin/discussions)
+I invite you to create your own twin and share your learnings. I've made my training corpus open to clone and analyze for your own creation. My organization will likely be somewhat unique, but I hope others will benefit from the thinking behind the approach. I'll be curious to hear what value and challenges you discover. [Jump into the Discussions](https://github.com/ammonhaggerty/my-digital-twin/discussions)
 
 If you'd like to hear more about my insights related to AI, creativity, community, ethics, spirituality, counter-culture, and music, I invite you to subscribe to my Substack — [The Long Tale](https://ammon.substack.com/).
