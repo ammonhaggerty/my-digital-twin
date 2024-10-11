@@ -3672,7 +3672,8 @@ My first font. Two weights: single and double. The font was distributed with Fon
 ##### Books about understanding design and creativity
 
 - **Title:** Grid Systems in Graphic Design, **Author:** Josef Müller-Brockmann, **URL:** https://a.co/d/ejJcbma, **Why I Love It:** My introduction to the power of alignment and structure in design. Whether or not you break the rules, the principles of the grid is a fundamental foundation for design.
-- **Title:** Reimagining Design, **Author:** Kevin Bethune, **URL:** https://a.co/d/fxjXrzv, **Why I Love It:** Written by my friend and colleague, and featuring lessons we learning together, Kevin beautifully unpacks and articulates the creative process. 
+- **Title:** Reimagining Design, **Author:** Kevin Bethune, **URL:** https://a.co/d/fxjXrzv, **Why I Love It:** Written by my friend and colleague, and featuring lessons we learning together, Kevin beautifully unpacks and articulates the creative process.
+- **Title:** About Face, **Author:** Alan Cooper, **URL:** https://a.co/d/fM5dLco, **Why I Love It:** How a 30 year old book on interaction design is still relevant today is a testament to the deep thinking from from Alan Cooper.  
 
 ##### Books about product thinking
 
@@ -3682,10 +3683,12 @@ My first font. Two weights: single and double. The font was distributed with Fon
 ##### Books about design leadership
 
 - **Title:** Resonate: Present Visual Stories that Transform Audiences, **Author:** Nancy Duarte, **URL:** https://a.co/d/6XRiroo, **Why I Love It:** So much of leadership is about convincing other to follow you. So a big breakthrough for me was learning how to better tell stories others would not just believe in, but passionately embrace. 
+- **Title:** Start with Why: How Great Leaders Inspire Everyone to Take Action, **Author:** Simon Sinek, **URL:** https://a.co/d/1SREJYY, **Why I Love It:** Curiosity is the engine of creation, and if you don't start with why, you'll likely find yourself saying "why didn't I."
+- **Title:** Leadership Embodiment, **Author:** Wendy Palmer and Janet Crawford, **URL:** https://a.co/d/hsF94qr, **Why I Love It:** Written by my late aunt Wendy and Aikido sensei, the book uses the principles of martial arts to teach about grounding, power and energy. 
 
 ##### Books about business
 
-- **Title:** Start with Why: How Great Leaders Inspire Everyone to Take Action, **Author:** Simon Sinek, **URL:** https://a.co/d/1SREJYY, **Why I Love It:** Curiosity is the engine of creation, and if you don't start with why, you'll likely find yourself saying "why didn't I."
+- **Title:** Conscious Capitalism: Liberating the Heroic Spirit of Business, **Author:** John Mackey and Raj Sisodia, **URL:** https://a.co/d/1SREJYY, **Why I Love It:** Embracing a higher purpose and focusing on the well-being of all stakeholders—not just shareholders—can lead to more successful and sustainable businesses.
 - **Title:** Rework, **Author:** Jason Fried, **URL:** https://a.co/d/4S3aWpo, **Why I Love It:** In a world where hockey stick growth, massive valuations, and quick exits are the core objectives of startups, it's refreshing to read Jason's ethos of slow and thoughtful.
 
 ##### Books about community
@@ -3699,7 +3702,18 @@ My first font. Two weights: single and double. The font was distributed with Fon
 - **Title:** The Seven Mysteries Of Life: An Exploration of Science and Philosophy, **Author:** Guy Murchie, **URL:** https://a.co/d/0ZFhtT7, **Why I Love It:** A beautiful encapsulation of reality told in a way this ADHD brain loves. 
 - **Title:** Gödel, Escher, Bach: An Eternal Golden Braid, **Author:** Douglas Hofstadter, **URL:** https://a.co/d/dmeNaS5, **Why I Love It:** The book expanded my mind when I read it in my 20s that I'm still exploring. Recursion, interconnectedness, and the liminal space of uncertainty. It's the gift that keeps giving. 
 
+#### Favorite Places (to travel and to be)
 
+##### Homes away from home
+
+- **Santa Cruz, California**: This is our second home. Coastal beauty, redwood forests, epic hikes, surfing mecca, wonderful biking (both road and trails), and a sweet, warm culture. 
+- **Sausalito, California**: Where I lived for 16 years. The houseboat and anchor-out communities give this wealth enclave soul. Watching the fog roll over the hills is a sweet meditation.
+- **Big Island, Hawaii**: Our go to family vacation spot. From gentle beaches to mesmerizing lave flows, and from deep jungles to barren lunar landscapes, there's a little something for every mood.
+##### Places I'm looking forward to visiting (or revisiting)
+
+- **Balazuc, France**: My friend Michael grew up in Hamburg, Germany and would spend the summers with his parents in this quaint, ancient village near the Rhone river in the south of France. Just  few miles from the Chauvet Cave, the oldest cave paintings ever discovered, and famously made into a documentary by Werner Herzog. Michael lives there part time and we're hoping to spend the summer with him there soon.
+- **Japan**: My daughters have become obsessed with Japanese culture: food, art, anime, clothing, music, design. So a visit to Japan is high on our list for upcoming adventure.
+- **West Africa**: African music has long been an obsession, and much of the music I love most is either from West Africa or was heavily influenced by the region. Highlife, Gqom, Juju, Fiji, Palmwine, Hiplife, Naija and so many other genres draw me to the region. I hope to explore Nigeria and Ghana some day through the lens of music.
 
 
 
