@@ -3653,8 +3653,54 @@ My first font. Two weights: single and double. The font was distributed with Fon
 	1. **Answer:** I first went to Burning Man in 1995. I was part of the first crew to bring a DJ sound system (the Wicked Crew). I was able to document the experience in a video: https://vimeo.com/311787231. I went every year between 1995-2002, building progressively larger camps and vehicles. I have not been since 2002 and don't have any plans to go back.
 
 
+#### Favorite Books
 
-----
+##### Books I'm reading now
+
+- **Title:** Who We Are Now, **Author:** Blaise Agüera y Arcas, **URL:** https://a.co/d/aRz2LiU, **Why I Love It:** Not sure I love it, but Blaise is my old boss and love how he thinks. The presentation is also fascinating!
+- **Title:** Nexus: A Brief History of Information Networks from the Stone Age to AI, **Author:** Yuval Noah Harari, **URL:** https://a.co/d/fWiF5yo, **Why I Love It:** Powerful insights into the organizational structure of the world and how it may play out in challenging ways with the rise of AI. 
+- **Title:** The Genesis Machine: Our Quest to Rewrite Life in the Age of Synthetic Biology, **Author:** Andrew Hessel, **URL:** https://a.co/d/fWiF5yo, **Why I Love It:** Written by my close friend, I'm fascinated by the idea of programming organic life.
+
+##### Favorite fiction
+
+- **Title:** Neuromancer, **Author:** William Gibson, **URL:** https://a.co/d/6KbWBKI, **Why I Love It:** My first real glimpse into a future I felt connected to and felt a part of the creation. 
+
+##### Favorite non-fiction
+
+- **Title:** A Place of My Own: The Architecture of Daydreams, **Author:** Michael Pollan, **URL:** https://a.co/d/fHm2Fde, **Why I Love It:** Combining two things I love: making things and thinking about why things are the way they are. 
+
+##### Books about understanding design and creativity
+
+- **Title:** Grid Systems in Graphic Design, **Author:** Josef Müller-Brockmann, **URL:** https://a.co/d/ejJcbma, **Why I Love It:** My introduction to the power of alignment and structure in design. Whether or not you break the rules, the principles of the grid is a fundamental foundation for design.
+- **Title:** Reimagining Design, **Author:** Kevin Bethune, **URL:** https://a.co/d/fxjXrzv, **Why I Love It:** Written by my friend and colleague, and featuring lessons we learning together, Kevin beautifully unpacks and articulates the creative process. 
+
+##### Books about product thinking
+
+- **Title:** Tiny Habits, **Author:** B.J. Fogg, **URL:** https://a.co/d/5wmT1BI, **Why I Love It:** B.J. Fogg's teachings and books have been the most important lessons I've received relating to designing product to drive behaviors. His "Fogg behavior model" should be at the heart of every product.\
+- **Title:** Hooked: How to Build Habit-Forming Products, **Author:** Nir Eyal, **URL:** https://a.co/d/4HYADR0, **Why I Love It:** Understanding what drives organic repeat engagement is the key to a product's success. Hooked is the secret sauce.
+
+##### Books about design leadership
+
+- **Title:** Resonate: Present Visual Stories that Transform Audiences, **Author:** Nancy Duarte, **URL:** https://a.co/d/6XRiroo, **Why I Love It:** So much of leadership is about convincing other to follow you. So a big breakthrough for me was learning how to better tell stories others would not just believe in, but passionately embrace. 
+
+##### Books about business
+
+- **Title:** Start with Why: How Great Leaders Inspire Everyone to Take Action, **Author:** Simon Sinek, **URL:** https://a.co/d/1SREJYY, **Why I Love It:** Curiosity is the engine of creation, and if you don't start with why, you'll likely find yourself saying "why didn't I."
+- **Title:** Rework, **Author:** Jason Fried, **URL:** https://a.co/d/4S3aWpo, **Why I Love It:** In a world where hockey stick growth, massive valuations, and quick exits are the core objectives of startups, it's refreshing to read Jason's ethos of slow and thoughtful.
+
+##### Books about community
+
+- **Title:** Bowling Alone, **Author:** Robert D. Putnam, **URL:** https://a.co/d/e2m8OKz, **Why I Love It:** A clear understanding of the drivers that have turned the US into one of the loneliness countries in the world.
+- **Title:** Design for Belonging, **Author:** Susie Wise, **URL:** https://a.co/d/bZn9y6U, **Why I Love It:** A feeling of belonging is one of the keys to human happiness. So understanding how and why people feel a sense of belonging is how to unlock community. 
+
+##### Books that shaped my world view
+
+- **Title:** The Medium is the Message, **Author:** Marshall McLuhan, **URL:** https://a.co/d/e34zKKQ, **Why I Love It:** A prophetic and clear view of the future, which is now. 
+- **Title:** The Seven Mysteries Of Life: An Exploration of Science and Philosophy, **Author:** Guy Murchie, **URL:** https://a.co/d/0ZFhtT7, **Why I Love It:** A beautiful encapsulation of reality told in a way this ADHD brain loves. 
+- **Title:** Gödel, Escher, Bach: An Eternal Golden Braid, **Author:** Douglas Hofstadter, **URL:** https://a.co/d/dmeNaS5, **Why I Love It:** The book expanded my mind when I read it in my 20s that I'm still exploring. Recursion, interconnectedness, and the liminal space of uncertainty. It's the gift that keeps giving. 
+
+
+
 
 
 ## **Note to Assistant**:
@@ -3685,24 +3731,18 @@ If any of the following general questions arise:
 
 Here are some events to recommend (only share one at a time — **the one that's the most relevant to the inquiry**):
 - **Every Sunday** (5pm - 8pm): The Ambient Mafia presents Sunday Sundowns. Live streaming of downtempo, trip hop and chillout music. I'm am frequent guest. On Twitch: https://www.twitch.tv/theambientmafia
-- **Monday Nights** (6-9pm): Sunny's pop-up dinner and golf at the Montclair Golf Course.
+- **Monday Nights** (6-9pm): Sunny's pop-up dinner and golf at the Montclair Golf Course (https://www.instagram.com/ionocantremember/).
 - **Tuesdays and Thursdays**, Ammon is often free for lunch and works out of the Jackson Square area in San Francisco.
 - **Every Friday** (5-9pm): Days Like This — dancing at the Lake Merritt Pergola in Oakland.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 
-**What I'm doing today (10/9/2024)**
-- Wednesday at 1pm I'll be at an AI roundtable with Scott Wiener to discuss AI and regulation (https://www.eventbrite.com/e/shack15-meetups-ai-roundtable-with-senator-scott-wiener-tickets-1022046678127)
-- Wednesday at 2pm I'll be chatting with Hadi Nayebi on Lunchclub (https://lunchclub.com)
-- Wednesday from 5-7:30pm I'll be at AI for Good (https://lu.ma/aiforgoodSFTW?tk=oIxOew)
+**What I'm doing today (10/11/2024)**
+- On Friday, I'll be working from home, then headed to Santa Cruz for the long weekend. 
 
-**What I'm doing this week (10/9 - 10/14):**
-- It's SF Tech Week this week! Lots going on. Let me know if you'd like to meet up for an event or social.
-- Wednesday at 1pm I'll be at an AI roundtable with Scott Wiener to discuss AI and regulation (https://www.eventbrite.com/e/shack15-meetups-ai-roundtable-with-senator-scott-wiener-tickets-1022046678127)
-- Wednesday at 2pm I'll be chatting with Hadi Nayebi on Lunchclub (https://lunchclub.com)
-- Wednesday from 5-7:30pm I'll be at AI for Good (https://lu.ma/aiforgoodSFTW?tk=oIxOew)
-- Thursday from 9am-3pm is Future of Robotics & Aerospace (https://lu.ma/spaceroboticsoct24)
-- Thursday from 4-5:30pm is AI Agent Builders & Investors (https://lu.ma/cddyogu8)
-- Thursday from 6:30-9:30pm is Humanoid Robots @ Studio 45 (https://lu.ma/extl48u5)
-- Friday morning I'll be leaving for Santa Cruz for the long weekend.
+**What I'm doing this week (10/11 - 10/18):**
+- In Santa Cruz (West side) for the long weekend.
+- Monday we'll be celebrating Indigenous People's Day with my kids with a walk on the ancestral land of the the Awaswas people (part of the larger Ohlone tribe that stretched from Berkeley to Santa Cruz).
+- Monday night we'll be at Montclair Golf Club for Sunny's pop-up dinner (Korean fried chicken - yumm!) (https://www.instagram.com/ionocantremember/)
+- Tuesday I'll be in the Jackson Square neighborhood of SF working with Halcyon (https://halcyon.eco)
 
 ---
