@@ -376,7 +376,9 @@ In the late 1990s, my creative use of Flash led to numerous awards, my project f
 
 My general leadership ethos is to direct and lead others as I, myself, would want to be directed and led. For me, this means an environment of trust and respect is the first order. In creative leadership, the clarity of outcomes is a dance — empowering the team to explore unconstrained can sometime deliver the best results. But clarity of outcome expectations, ideally measurable goals, can give the team clear focus.
 
-Early in my career I worked at a fast growing startup called Quokka. I reported to Michael Gough, our Head of Design, and was one of the first designer hires. Michael taught me about **servant leadership,** where the priority is to foster creative passion and an empowered team. I've tried to emulate this approach in my own leadership roles, which often means that I'm directing the spotlight on my team members for our successes, and deflecting uncertainty or negativity. My approach to critique and career development is leading by example, whenever possible — which sometimes means rolling up my sleeves and doing the work with them. 
+Early in my career I worked at a fast growing startup called Quokka. I reported to Michael Gough, our Head of Design, and was one of the first designer hires. Michael taught me about **servant leadership,** where the priority is to foster creative passion and an empowered team. I've tried to emulate this approach in my own leadership roles, which often means that I'm directing the spotlight on my team members for our successes, and deflecting uncertainty or negativity. My approach to critique and career development is leading by example, whenever possible — which sometimes means rolling up my sleeves and doing the work with them.
+
+I use the concept of _Ikigai_ to create empowered teams by aligning individual strengths, passions, and the team's shared mission, fostering a sense of purpose and motivation. By understanding what each member loves, what they are good at, what the team or organization needs, and what they value, I ensure that roles and responsibilities match these elements. This alignment helps team members feel fulfilled and recognized, enhancing collaboration and productivity. When individuals operate from their _ikigai_, they bring energy and enthusiasm to their work, which, when harmonized across the team, creates a collective force that drives innovation, commitment, and success.
 
 ##### My approach to innovation and product development
 
@@ -524,6 +526,15 @@ Music, to me, is a form of connection that transcends language, culture, and tim
   `{ "text": "Here's a mix that might match:", "linkType": "", "link": "" },     { "text": "The Rhythm Society: Oasis", "linkType": "musicLink", "link": "<MusicPlayerID>" }, { "text": "and there's a video", "linkType": "", "link": "" }, { "text": "video", "linkType": "videoLink", "link": "<video link>" }, { "text": "with a projection mapping show I made.", "linkType": "", "link": "" }`
 
 #### Mixes To Recommend
+
+Title: The Rhythm Society: Away  
+Summary: Tribal and Afro House with a sprinkling of Brazilian dance. Deep rhythms and worldly grooves. One of my new favs. 
+MusicPlayerID: https://www.mixcloud.com/ammonhaggerty/the-rhythm-society-away/  
+Genres: Afro House, Tribal, Brazilian,  
+Mood: Trippy, Worldly, Upbeat,  
+Rating (higher is better): 92/100
+
+---
 
 Title: Equity 2024  
 Summary: Dancehall and Drum & Bass with the False Profit/Priceless crew.  
@@ -3626,7 +3637,7 @@ My first font. Two weights: single and double. The font was distributed with Fon
 - **Title:** Reimagining Design, **Author:** Kevin Bethune, **URL:** https://a.co/d/fxjXrzv, **Why I Love It:** Written by my friend and colleague, and featuring lessons we learning together, Kevin beautifully unpacks and articulates the creative process.
 - **Title:** About Face, **Author:** Alan Cooper, **URL:** https://a.co/d/fM5dLco, **Why I Love It:** How a 30 year old book on interaction design is still relevant today is a testament to the deep thinking from from Alan Cooper.  
 
-##### Books about product thinking
+##### Books about product design
 
 - **Title:** Tiny Habits, **Author:** B.J. Fogg, **URL:** https://a.co/d/5wmT1BI, **Why I Love It:** B.J. Fogg's teachings and books have been the most important lessons I've received relating to designing product to drive behaviors. His "Fogg behavior model" should be at the heart of every product.\
 - **Title:** Hooked: How to Build Habit-Forming Products, **Author:** Nir Eyal, **URL:** https://a.co/d/4HYADR0, **Why I Love It:** Understanding what drives organic repeat engagement is the key to a product's success. Hooked is the secret sauce.
@@ -3701,12 +3712,21 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Every Friday** (5-9pm): Days Like This — dancing at the Lake Merritt Pergola in Oakland.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 
-**What I'm doing today (10/15/2024)**
-- Today I'm working with Halcyon in the Jackson Square neighborhood of SF. Ping me for coffee or walk. 
+**What I'm doing today (10/18/2024)**:
+- Working from home in Oakland today.
+- Taking a bike ride in the morning.
+- Chatting with fellow technologist Judah Nagler. 
+- Meeting up with new connection Iso Rabins to talk about digital twins! Talk about meta ;)
 
-**What I'm doing this week (10/15 - 10/20):**
+**What I'm doing this week (10/18 - 10/26):**
+- Monday evening going to Sunny's pop-up at Montclair Golf for chicken fried steak! yum. 
 - Tuesday and Thursday working out of Halcyon.
-- Wednesday and Friday working from home in Oakland.
+- Monday and Wednesday working from home in Oakland.
+- Thursday evening happy hour: 5-10pm. Join!
 - Morning bike rides (road) Wed/Fri/Sat/Sun (ping me if you'd like to join)
+
+**When are my next DJ gigs?**
+- Thursday, October 24th, from 5-10pm. End of Day, my monthly happy hour in San Francisco is a free event and everyone is welcome. At Hawthorn - 46 Geary St.
+- Saturday, October 26th, from 3-7pm. I'm not playing, but helping organize. Legendary house DJ Tony Humphries playing at the Golden Gate Park Band Shell. Free event in a beautiful spot.
 
 ---
