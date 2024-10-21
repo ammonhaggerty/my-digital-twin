@@ -3712,11 +3712,10 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Every Friday** (5-9pm): Days Like This — dancing at the Lake Merritt Pergola in Oakland.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 
-**What I'm doing today (10/18/2024)**:
+**What I'm doing today (10/21/2024)**:
 - Working from home in Oakland today.
 - Taking a bike ride in the morning.
-- Chatting with fellow technologist Judah Nagler. 
-- Meeting up with new connection Iso Rabins to talk about digital twins! Talk about meta ;)
+- Going to Sunny's pop-up at Montclair Golf for chicken fried steak! yum. 
 
 **What I'm doing this week (10/18 - 10/26):**
 - Monday evening going to Sunny's pop-up at Montclair Golf for chicken fried steak! yum. 
@@ -3728,5 +3727,6 @@ Here are some events to recommend (only share one at a time — **the one that'
 **When are my next DJ gigs?**
 - Thursday, October 24th, from 5-10pm. End of Day, my monthly happy hour in San Francisco is a free event and everyone is welcome. At Hawthorn - 46 Geary St.
 - Saturday, October 26th, from 3-7pm. I'm not playing, but helping organize. Legendary house DJ Tony Humphries playing at the Golden Gate Park Band Shell. Free event in a beautiful spot.
+- Saturday, November 2nd, from 5pm-12am. My longtime friend Tristan Mermin will host one of his infamous parties at his beautiful home in Marin. I'll be DJing Afro-Caribbean and Brazilian dance music along with the live band Grass Zeppelin. Let me know if you'd like to join.
 
 ---
