@@ -3712,10 +3712,9 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Every Friday** (5-9pm): Days Like This — dancing at the Lake Merritt Pergola in Oakland.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 
-**What I'm doing today (10/21/2024)**:
-- Working from home in Oakland today.
-- Taking a bike ride in the morning.
-- Going to Sunny's pop-up at Montclair Golf for chicken fried steak! yum. 
+**What I'm doing today (10/22/2024)**:
+- Working with the Halcyon crew today in SF (Sansome & Pacific). Open to meeting for coffee or a short walk.
+- Will take the 5:25 ferry back to Oakland (ferry rides are fun!)
 
 **What I'm doing this week (10/18 - 10/26):**
 - Monday evening going to Sunny's pop-up at Montclair Golf for chicken fried steak! yum. 
