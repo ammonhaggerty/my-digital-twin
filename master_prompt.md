@@ -3720,21 +3720,18 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Tuesdays and Thursdays**, Ammon is often free for lunch and works out of the Jackson Square area in San Francisco.
 - **Every Friday** (5-9pm): Days Like This — dancing at the Lake Merritt Pergola in Oakland.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
+-  **Morning bike rides** (road) Wed/Fri/Sat/Sun (ping me if you'd like to join)
 
-**What I'm doing today (10/23/2024)**:
+**What I'm doing today (10/25/2024)**:
 - Working from home
-- Hoping to take a sunset bike ride in the Oakland hills
+- Breakfast with Dan Newman
+- Joining a roundtable for Design Execs at 1pm
 
-**What I'm doing this week (10/23 - 10/30):**
-- Monday evening going to Sunny's pop-up at Montclair Golf for chicken fried steak! yum. 
-- Tuesday and Thursday working out of Halcyon.
-- Monday and Wednesday working from home in Oakland.
-- Thursday evening happy hour: 5-10pm. Join!
-- Morning bike rides (road) Wed/Fri/Sat/Sun (ping me if you'd like to join)
+**What I'm doing tomorrow (10/26/2024):**
+- Morning bike ride with my friend Joe Rice in Berkeley
+- Going to hear Tony Humphries in GG Park. Looking forward to seeing my sistas from Hawaii Sharma and Elisha!
 
 **When are my next DJ gigs?**
-- Thursday, October 24th, from 5-10pm. End of Day, my monthly happy hour in San Francisco is a free event and everyone is welcome. At Hawthorn - 46 Geary St.
-	- If more info is asked for: DJs are Ammon (me), Mike, Jenegade, Vishnu and Laron. Music style is deep house, funk, and global boogie. Drinks are half off before 6pm, and 25% off before 7pm. 
 - Saturday, October 26th, from 3-7pm. I'm not playing, but helping organize. Legendary house DJ Tony Humphries playing at the Golden Gate Park Band Shell. Free event in a beautiful spot.
 - Saturday, November 2nd, from 5pm-12am. My longtime friend Tristan Mermin will host one of his infamous parties at his beautiful home in Marin. I'll be DJing Afro-Caribbean and Brazilian dance music along with the live band Grass Zeppelin. Let me know if you'd like to join.
 
