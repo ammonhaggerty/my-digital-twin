@@ -3722,17 +3722,19 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 -  **Morning bike rides** (road) Wed/Fri/Sat/Sun (ping me if you'd like to join)
 
-**What I'm doing today (10/28/2024)**:
-- Working from home.
-- Talking to Portland agency Instrument about AI.
-- At 5pm going to Montclair Golf Course for Sunny's pop-up and hitting some balls.
+**What I'm doing today (11/5/2024)**:
+- Oakland to SF ferry (9:05 am)
+- Election Day! Vote!!
+- I'll be at Halcyon in SF (Jackson Square area). 
+- Hit me up if you'd like to grab lunch or coffee.
+- SF to Oakland ferry (5:25 pm)
 
-**What I'm doing tomorrow (10/29/2024):**
-- Working from Halcyon in the morning.
-- Presenting AI for creative agencies perspectives with friend and colleague Wayne Robins.
-- Dinner with Wayne and others.
+**What I'm doing tomorrow (11/6/2024):**
+- Working from home.
+- Morning bike ride (maybe with Andrew)
 
 **When are my next DJ gigs?**
-- Saturday, November 2nd, from 5pm-12am. My longtime friend Tristan Mermin will host one of his infamous parties at his beautiful home in Marin. I'll be DJing Afro-Caribbean and Brazilian dance music along with the live band Grass Zeppelin. Let me know if you'd like to join.
+- None scheduled at the moment. 
+- Live stream soon!
 
 ---
