@@ -359,66 +359,45 @@ My younger brother, Solomon Kahn, followed in my footsteps as a DJ, rising to be
 
 ### **Professional Philosophy**
 
-##### Summary
+##### **Summary**
 
-My career has been marked by varying waypoints—job titles, roles, and levels of seniority—along my professional journey, yet the focus and intention have remained remarkably consistent. I was insatiably curious before I was a maker. I was a maker before I was a coder. I was a coder before I discovered by talent as a designer. But most of my career I'm been a creative maker — a hands on creative engineer who find aesthetic beauty in elegant code. Whether contributing as an individual contributor or as an executive, I create value through bringing ideas and stories to life.
-##### My role as a creative technologist
+My career has been defined by a consistent focus on creative making, evolving through roles as a coder, designer, and creative technologist. Whether as an individual contributor or executive, I bring ideas and stories to life through hands-on innovation, finding beauty in elegant code and design.
 
-Creative technologists, also called design technologist, creative coder, or full-stack designer, straddles creative and engineering teams. My interest in creative coding grew out of a passion for building and making — trying to figure out how to bring ideas in my mind to life. 
+---
 
-In my early teens, I was obsessed with electronics. I built and designed RC cars, which became robots in later configurations. I was a self-taught electronics hobbyist, often building contraptions with LEDs, sensors, servos and switches. I also loved coding, and found myself taking Basic and LISP corses at the local community college. This led to my first job as a Lingo coder, building CDRom multimedia experiences.
+##### **My Role as a Creative Technologist**
 
-In my role as a frontend engineer, I found myself engaged with graphic and user interface design element, fonts, color pallets, and UX design philosophy. I quickly realized that my passion was for design more than coding. As a design novice, I asked some designer friend for advice, and was given a few book recommendation, which included A History of Graphic Design by Philip Meggs, Thoughts on Design by Paul Rand, No More Rules by Rick Poynor and Typography by Emil Ruder. This led to a deep dive into graphic design, type design, letterpress, offset print, and many other traditional design techniques. 
+Creative technologists bridge creative and engineering teams, a role I’ve embraced through a passion for building and making. From an early interest in electronics and coding, I transitioned to creative coding, influenced by pioneers like John Maeda. My work has spanned graphic design, artistic coding, and large-scale immersive projects, such as those at Obscura and the foundational design for the Las Vegas Sphere.
 
-After discovering graphic design, I realized there was a nascent, but growing field of artistic coding. I learned about code artists of the past, like Manfred Mohr and Ruth Leavitt, and emerging artist like Karl Sims and Paul Brown. As I began to apply creative coding to my work in the emergence of the web, a new generation of creative coders began to emerge, including John Maeda, Casey Reas, and Ben Fry.
+---
 
-John Maeda was a particularly important inspiration in creating awareness of a role that did not yet exist in software development and the early web. His examples of code as design unlocked a way of thinking about interaction design few were exploring. I began promoting my role as designer/developer and a bridge between the two disciplines. 
+##### **My Role in Design and Product Leadership**
 
-In the late 1990s, my creative use of Flash led to numerous awards, my project featured on the Flash packaging, and a keynote presentation at the annual Macromedia Max conference. The pinnacle of my creative coding was likely with Obscura, where I build large-scale, procedural and immersive spectacles. The Las Vegas Sphere was originally designed by my team, but was finally realized long after my departure.
+My leadership ethos centers on trust, respect, and empowering teams through clarity of outcomes and servant leadership. Inspired by mentors like Michael Gough, I focus on aligning team strengths and passions using the concept of _ikigai_. This approach fosters purpose, collaboration, and innovation, creating an environment where team members feel fulfilled and recognized.
 
-##### My role in design and product leadership
+---
 
-My general leadership ethos is to direct and lead others as I, myself, would want to be directed and led. For me, this means an environment of trust and respect is the first order. In creative leadership, the clarity of outcomes is a dance — empowering the team to explore unconstrained can sometime deliver the best results. But clarity of outcome expectations, ideally measurable goals, can give the team clear focus.
+##### **My Approach to Innovation and Product Development**
 
-Early in my career I worked at a fast growing startup called Quokka. I reported to Michael Gough, our Head of Design, and was one of the first designer hires. Michael taught me about **servant leadership,** where the priority is to foster creative passion and an empowered team. I've tried to emulate this approach in my own leadership roles, which often means that I'm directing the spotlight on my team members for our successes, and deflecting uncertainty or negativity. My approach to critique and career development is leading by example, whenever possible — which sometimes means rolling up my sleeves and doing the work with them.
+I drive innovation through rapid ideation and prototyping, finding the shortest path to tangible solutions. This method has solved large, ambiguous challenges, such as developing a gamified loyalty program for Starbucks, securing a $30M investment, and creating prototypes that clarified business opportunities for startups, saving time and resources.
 
-I use the concept of _Ikigai_ to create empowered teams by aligning individual strengths, passions, and the team's shared mission, fostering a sense of purpose and motivation. By understanding what each member loves, what they are good at, what the team or organization needs, and what they value, I ensure that roles and responsibilities match these elements. This alignment helps team members feel fulfilled and recognized, enhancing collaboration and productivity. When individuals operate from their _ikigai_, they bring energy and enthusiasm to their work, which, when harmonized across the team, creates a collective force that drives innovation, commitment, and success.
+---
 
-##### My approach to innovation and product development
+##### **My Approach to Building Engaging Products and Services**
 
-As a more technical designer and design leader, I've always taken a more tacit approach to validating opportunities. While research can be a wonderful forcing function, there's nothing like holding something in your hands to understand it fully. Rapid ideation and prototyping have become my signature style of driving innovation. My goal is usually to find the shortest path to a tangible representation of an idea that can be validated.
+I combine frameworks like Simon Sinek's "Start With Why," B.J. Fogg's Behavior Model, and Nir Eyal's Hooked Model to design meaningful user engagement. Starting with purpose, I align products with user values, break down actionable behavior, and build habits through triggers, rewards, and investment. This holistic approach fosters genuine, lasting connections with users.
 
-Here are some examples of where I've quickly solved large, ambiguous problems through a creative technology and prototyping lens:
-- When I pitched an idea to Starbucks for a personalized, gamified loyalty program, they wanted assurances we could build it. Along with another designer and engineer, we rapidly prototyped a functional solution in less than four weeks that demonstrated the working functionality. This resulted in a $30m investment.
-- Working with seasoned tech founder, he was interested in building an AI tool and marketplace for supplements. I built a working prototype of the solution in one day, which gave the founder clarity around the opportunity. He chose not to move forward with this idea, potentially saving him months of effort.
+---
 
-##### My approach to building engaging products and services
+##### **My Thoughts About Storytelling**
 
-User engagement is a multifaceted challenge, one that I've approached through the lens of several impactful frameworks—each addressing different, yet interconnected, aspects of the journey. Nir Eyal's Hooked Model, Simon Sinek's Start With Why, and B.J. Fogg's Behavior Model have become cornerstones in my philosophy for designing meaningful engagement in digital products and services. These frameworks don’t offer a single "silver bullet" solution, but together, they form a powerful toolkit that has consistently shaped my thinking around how to genuinely connect with users.
+Storytelling is essential for creating impactful experiences and aligning stakeholders. Drawing from Nancy Duarte’s "Resonate," I craft narratives that inspire emotional connections, whether to engage users or unify teams around a shared vision. A compelling story transforms ideas into missions, driving action and achieving extraordinary outcomes.
 
-I start with Simon Sinek's idea of "Start With Why," because understanding the "why" is the foundation of genuine engagement. It’s not about the product—it's about what purpose that product fulfills. Users aren't just looking for features; they're seeking a meaningful connection, a deeper reason to care. Defining the "why" clearly allows users to see themselves in the story, to feel emotionally connected to the experience. When people align with the purpose behind a product, engagement becomes more than a metric; it becomes a relationship. This principle lays the emotional groundwork that is crucial before diving into the more tactical aspects of behavior.
+---
 
-Once the purpose is established, B.J. Fogg’s Behavior Model helps to break down the practical side of motivation and action. The Fogg Model—which explains that behavior happens when motivation, ability, and a prompt converge at the same moment—is crucial for designing interactions that are both accessible and timely. Understanding the balance between making actions easy enough while ensuring motivation stays high has been a guiding light for creating features that encourage repeat use. It's about reducing friction, meeting users where they are, and designing prompts that feel natural rather than intrusive.
+##### **My Approach to Driving Alignment**
 
-Nir Eyal’s Hooked Model then plays a key role in fostering long-term engagement. The Hooked framework speaks to how habits are built, focusing on triggers, actions, rewards, and investments. To create a product that users want to return to, it's essential to design around internal and external triggers that prompt action. The reward phase is where I strive to delight users—offering something that satisfies a need while making them curious for more. The investment phase, where users put something of themselves into the experience (data, effort, or even just time), creates a sense of ownership and deepens engagement. Taken together, these elements help transition an experience from something users enjoy to something that becomes a part of their lives.
-
-No single framework will solve every engagement challenge, but I've found that using these approaches in combination—starting with purpose, facilitating behavior, and building habits—offers a holistic path to genuine and sustained user engagement. The goal is always to create a product that isn’t just used, but loved, remembered, and ultimately, returned to.
-
-##### My thoughts about storytelling
-
-Storytelling is at the heart of creating impactful experiences, whether in product design or stakeholder alignment. Nancy Duarte's "Resonate" is a wonderful articulation of the art and craft of storytelling, showcasing its power and potential. A good story doesn’t just convey information; it builds an emotional connection that inspires belief and action. In product design, it’s about crafting a narrative that helps users see why a product matters in their lives—how it aligns with their values and solves meaningful problems. When users are brought into a well-crafted story, they don’t just use a product; they adopt it, integrate it, and advocate for it, because it resonates on a personal level.
-
-Storytelling also plays a vital role in bringing stakeholders together around a shared vision. A compelling narrative has the power to align teams, inspire commitment, and create a unified sense of purpose. Duarte’s lessons remind us that when everyone believes in the same story, the impossible begins to feel achievable. It’s not just about getting buy-in; it’s about transforming an idea into a mission that everyone wants to be a part of. When stakeholders, designers, and users alike can see the story, feel it, and believe in it, you can move mountains. The impact of a great story goes beyond words—it drives action, fosters connection, and ultimately leads to extraordinary outcomes.
-
-##### My approach to driving alignment
-
-My thoughts about driving alignment have evolved a lot as I've led innovation and creative teams that often have to turn ambiguity into something concrete. It’s a challenge when you're balancing the long-term, qualitative value of creativity against the short-term, quantitative outcomes that business, engineering, and product teams are driven by. To bridge that gap, I’ve learned that it's about finding common ground and crafting a shared vision that connects the unknown to the measurable. It starts with translating big ideas into something others can rally around—a narrative that speaks directly to both the vision and the business metrics.
-
-One thing I've found powerful is defining what I call proximal metrics—those early indicators that help signal we're on the right path. For example, customer feedback from a pilot, or even increased engagement with an early prototype, can show value before we’ve reached full implementation. These smaller wins provide touchpoints that resonate with stakeholders who need to see movement, and they create a shared sense of progress. It’s also helped to visualize how the short-term efforts fit into a broader roadmap, demonstrating that every sprint or experiment is a step toward a greater goal.
-
-Alignment is also about understanding that different teams have different languages. I’ve realized the importance of taking time to translate creative progress into the metrics other departments care about. For example, explaining how a new design might increase retention or user satisfaction in terms of specific business metrics can turn abstract creativity into something relatable. Storytelling, regular check-ins, and transparent conversations about where we’re going and what we’re learning along the way are essential to building this bridge.
-
-Lastly, I've embraced the power of small experiments. Launching low-risk tests that generate tangible results has been invaluable. These early successes not only show evidence of progress but also generate excitement and buy-in. They allow us to learn, adapt, and show that even in the midst of ambiguity, we’re making real headway. Driving alignment, I’ve learned, is about making everyone feel a part of the journey—connecting the dots between the creative, the measurable, and the future we’re collectively building.
+Driving alignment requires bridging creative ambiguity with measurable outcomes. I translate big ideas into narratives that resonate across teams, using proximal metrics and small experiments to show progress and build confidence. Transparent communication and connecting creative efforts to business goals ensure alignment and momentum toward shared objectives.
 
 
 ### **Music**
@@ -1077,55 +1056,192 @@ Rating (higher is better): 81/100
 
 #### Music Discovery
 
-A favorite topic of mine. It’s also a space that tends to be deeply personal. For me, “discovery” is more about mind expansion than expectation alignment. So music recommendations are generally underwhelming for my interests. I’ll likely expand on this list, but will start with a few of my favorites.
+Music discovery, for me, is about mind expansion, not just recommendations. These tools and platforms have become my favorites for exploring music in new and unexpected ways.
 
-[Bandcamp](https://bandcamp.com/) was an independent, Oakland (my home city) music marketplace (akin to a neighborhood record store. They were bought, and subsequently sold, in the past couple years, and now there’s some uncertainty in their future (unfortunately). Bandcamp also sits in three different lists (music streaming, music discovery, and music buying). Their editorial team was top notch (before they were gutted), led by [Andrew Jarvis](https://bandcamp.com/AndrewJervis), one of the Bay Area’s top taste-makers, and an influence on my early DJ years.
+---
+##### **[Bandcamp](https://bandcamp.com/)**
 
-While Bandcamp’s editorial programming has introduced me to some fantastic new music, the real power of Bandcamp is in their social purchase sharing. Most buyers on Bandcamp are either professional DJs or patrons, and when they purchase a song, their purchase record is public. This public record becomes a gold mine of music discovery. Voting with real money is by far the strongest signal of value. You are welcome to peruse [my purchase history](https://bandcamp.com/ammonhaggerty).
+- Oakland-based marketplace with social purchase sharing; DJs and patrons' public purchase histories are discovery gold.
+- **Key Feature:** Real-money signals of value.
+- See [my purchases](https://bandcamp.com/ammonhaggerty).
 
-[SNDOUT](https://sndout.com/) is my own personal project that uses the vast knowledge embedded into AI language models to highlight the history of music, understand music genres, understand cultural context, and generally explore the world of music. I created a “random” button, which chooses a random spot on the planet, a random year (in the past 75 years), and a random characteristic (e.g., most popular, traditional, etc.). Nearly every time I click the random button, I learn something new and expand my horizons musically.
+---
+##### **[SNDOUT](https://sndout.com/)**
 
-[Everynoise](https://everynoise.com/) has been a favorite discovery tool for many years now. It looks at the world of music through nearly 7000 genres, organizing them by how electronic vs organic on one axis, and soft (ambient) vs hard (dense) on the other axis. You can drill into genres to explore the artists (using the same plotting methodology), and listen to sample of music. You can also find a dozen other ways to slice, dice and explore music by genre, region, time, etc.
+- My project using AI to explore music by random location, year, and characteristic.
+- Expands horizons with every click.
 
-[Shazam](https://www.shazam.com/) was the first iPhone app to truly blow my mind, and continues to be an almost daily use tool for me. Listening to NPR, I have my Shazam button close at hand for ID’ing the interstitial tracks that play. Shazam has their own discovery tools, which are powered by curious music listeners like myself. Exploring trending Shazams from a place like Morocco quickly opens a world of new music.
+---
+##### **[Everynoise](https://everynoise.com/)**
 
-[Radio Garden](https://radio.garden/) is a fascinating app that somehow compiled, and allows you to stream, over 8000 radio stations from around the world. The ads can be very annoying, and the majority of stations are not very good, but occasionally you hit the jackpot.
+- Maps 7,000 genres on axes of sound and density.
+- Drill into genres, artists, and samples to explore by region or style.
 
-[Radioooo](https://radiooooo.com/) is a simple, yet surprisingly deep discovery app for exploring the worlds music through time. It’s fairly curated, but what it does have is done well. I haven’t used the paid version, so my experience is limited, but there’s some crossover with my SNDOUT project.
+---
+##### **[Shazam](https://www.shazam.com/)**
+
+- Essential for identifying tracks and exploring trending music globally.
+- Great for uncovering new music by region.
+
+---
+##### **[Radio Garden](https://radio.garden/)**
+
+- Streams 8,000+ global stations.
+- Uneven quality, but occasionally a jackpot for discovery.
+
+---
+##### **[Radioooo](https://radiooooo.com/)**
+
+- Curated global music by time period.
+- Simple, but excellent quality.
+
+---
+
+These tools simplify the journey of discovery, blending serendipity with curated insights.
 
 #### Music Listening Options
 
-**Listening (Big Streaming Services)**
+##### Listening (Big Streaming Services)
 
-These days, streaming is king. But most streaming services have caved to the music industry, which means artists get almost nothing and the most popular music is generally promoted. This creates an “echo chamber” of popularity, which drowns out everyone but the top artist (which are generally artificially promoted to begin with).
+Streaming dominates music, but most platforms favor major labels, promoting popular artists while underpaying musicians. Among the big five (Spotify, YouTube Music, Apple Music, Amazon Music, Tidal), I prefer Tidal and Apple Music:
 
-Of the big five streaming services (Spotify, YouTube Music, Apple Music, Amazon Music and Tidal), I’m biased towards two other them: Tidal and Apple Music. Here’s why:
+- **[Tidal](https://tidal.com/):** Founded by Jay-Z and later acquired by Jack Dorsey, Tidal invests in artists, offers high-quality audio, and integrates DJ tools.
+- **[Apple Music](https://music.apple.com/):** Superior catalog, quality, and discovery features. Pays artists more than Spotify and supports spatial audio, a promising evolution in music listening.
 
-[Tidal](https://tidal.com/) has an interesting history. Founded by rapper Jay-Z, who brought in other artist as founder/advisors. Jack Dorsey (of Twitter fame) bought a majority share in 2020. They’re trying different business models, including investing in artists. They’ve also focused on DJs, providing high quality audio and DJ tools integration.
+---
 
-[Apple Music](https://music.apple.com/) has been quietly building a service far superior to Spotify in almost every regard (catalog size/selection, music quality, discovery, development API). Apple pays artists more that double Spotify’s paltry $0.003/stream. Apple has also double-downed on [spatial audio](https://www.nmcrec.co.uk/discover/spherical-sound-ambisonics-atmos), which I’m bullish on — I believe it’s an exciting evolution of music making and listening.
+##### Listening (Music Sharing)
 
-**Listening (Music Sharing)**
+Big streamers serve major labels, but direct-to-consumer platforms let artists connect directly with fans. My go-to options:
 
-You can think of the “big streamers” as a service for the big music labels (Universal, Sony, Warner, etc.) to sell their catalogs. On the other side is the direct to consumer side, where artists can sell/stream directly to you. Here we have a wide range of offerings, but will cover the one’s I use on a regular basis.
+- **[YouTube](https://www.youtube.com/):** Largest music repository, with user-uploaded content and a formidable streaming service. Best for finding rare, live, or obscure tracks but comes with ads.
+- **[Soundcloud](https://soundcloud.com/):** Popular for user-generated content, hosting ~500M songs from amateurs to top artists. Great for DJ mixes but suffers from limited discovery and filter bubbles.
+- **[Mixcloud](https://www.mixcloud.com/):** Designed for licensed DJ mixes, fostering a vibrant DJ community. [My Mixcloud account](https://www.mixcloud.com/ammonhaggerty/).
 
-[YouTube](https://www.youtube.com/) is the largest repository of music in the world. While [YouTube Music](https://music.youtube.com/) is a formidable streaming service with more than 100 million licensed songs, the majority of music (estimated at more than 1 billion songs) has been unofficially uploaded by users. As a tool for finding unusual music, music videos, live music recording, etc., there’s no better tool. That said, you need to know exactly what you’re looking for, and you’ll deal with ads.
-
-[Soundcloud](https://soundcloud.com/) is the most popular user generated music service with more than 40 million artist and approaching 500 million songs (5x Spotify or Apple Music). You can find everything from kids sharing a crappy cover to the top artists. It has also become the most popular place for DJs to share mixes (I support Mixcloud for this use case — see below). The challenge with Soundcloud is discovery. Social sharing offers some discoverability, but creates deep filter bubbles.
-
-[Mixcloud](https://www.mixcloud.com/) was created to address the challenge of sharing DJ mixes that contain unlicensed music. They’ve developed a licensing model that identifies and pays for music use. I also feel it’s a wonderful community of DJs. [You can find my Mixcloud account here](https://www.mixcloud.com/ammonhaggerty/).
+These platforms offer unique ways to explore and engage with music outside the mainstream.
 
 #### Music Buying (as a DJ or patron)
 
-While this is a dying art, purchasing songs and albums, whether digital or physical, is the most direct way to support the artists making the music. As a longtime vinyl collector, I grew up in record stores, where the store buyers of your favorite genres were your ticket to snagging the best new music.
+Buying music—digital or physical—is the most direct way to support artists. As a vinyl collector, I grew up in record stores, relying on their buyers for rare finds and new discoveries.
 
-[Bandcamp](https://bandcamp.com/) is my go-to these days. Mostly for digital purchases, but occasionally vinyl records as well. For the reasons explained in “discovery” (above), this is where I find my best music. I also only collect “lossless” music, or digital music that hasn’t been compressed (e.g., turned into an MP3). When playing music on a large or high end sound system, compressed music (even at the highest bitrates) looses clarity, especially in the lower frequencies.
+---
 
-[Discogs](https://www.discogs.com/) is the most comprehensive database of physical music in the world. As a crowd-sourced resource (like Wikipedia), it has a passionate following and reflects the vinyl offerings in near realtime. What’s cool about Discogs is that has evolved into a community and a marketplace, so it’s like the best record store on the planet. It’s also a thorn in the side of record store owners, who now can’t over-charge for a record, and thorn for diggers who likely won’t find $100 records in the dollar bin. But it’s an amazing resource for learning about rare and obscure music. Here’s a little example where I’m looking specifically for [African disco albums from 1981](https://www.discogs.com/search/?sort=score%2Cdesc&ev=em_rs&style_exact=African&style_exact=Disco&decade=1980&year=1981) (a particularly good vintage for boogie/disco crossover). In this example, there are clearly many missing, but it a great starting point.
+- **[Bandcamp](https://bandcamp.com/):** My go-to for digital purchases and occasional vinyl. I only collect lossless music for its superior clarity on high-end sound systems. Bandcamp remains unmatched for finding quality music and supporting artists.
+- **[Discogs](https://www.discogs.com/):** The largest crowd-sourced database for physical music, now a vibrant community and marketplace. Perfect for learning about rare and obscure music. Example: [African disco albums from 1981](https://www.discogs.com/search/?sort=score%2Cdesc&ev=em_rs&style_exact=African&style_exact=Disco&decade=1980&year=1981).
+- **Local Record Stores:** The soul of music culture. Stores like [Open Mind](http://openmindmusic.org/) were essential for rare finds and genre discovery through relationships with staff. Use the [Record Store Day website](https://recordstoreday.com/Stores) to find stores near you and support them.
 
-**Local record stores** are the heart and soul of the music industry. When I was in my 20s, I spent an embarrassing amount of time in record stores. [Open Mind](http://openmindmusic.org/) (when it was on Divisadero) was my favorite for years. Over time, I became friends with the staff and the buyers of my favorite genres, which opened the doors to rare finds and learning about new, related music. This was true discovery — the path to expanding my awareness of music. If you can, support your local record stores. The [Record Store Day website](https://recordstoreday.com/Stores) has a great resource for finding local stores.
+These channels connect you to music while directly benefiting its creators.
 
 ### **Thoughts**
+
+#### **Article Summary: "Customer Loyalty on AI"**
+
+- **Title:** Customer Loyalty on AI
+- **Summary:** As one of the architects of the Starbucks loyalty program, some thoughts about how generative AI will completely change the customer loyalty game.
+- **Date:** Nov 15, 2024
+- **WebLink:** `https://ammon.substack.com/p/customer-loyalty-on-ai`
+- **Keywords:** `Customer Loyalty, AI, Personalization`
+
+---
+
+##### **Overview**
+
+- The article explores the evolution of customer loyalty programs, from early AI-powered solutions like Starbucks Rewards to the transformative potential of generative AI.
+- AI’s role in loyalty programs is moving toward cost-effective, device-centric, and contextually intelligent systems, offering a new level of personalization and engagement.
+
+---
+
+##### **Key Themes and Lessons**
+
+1. **Early Success with AI-Driven Loyalty (2015-2019):**
+    - **Background:** The author pitched and built Starbucks’ AI-driven loyalty platform with machine learning (ML) and reinforcement learning (RL) technologies.
+    - **Execution:**
+        - Delivered gamified, personalized offers at scale.
+        - Processed 10M+ daily transactions and deployed 30M individualized offers weekly.
+    - **Psychological Drivers:**
+        - _Zeigarnik Effect_: Motivates customers to complete unfinished tasks.
+        - _Transactional Utility_: Appeals to customers’ desire for savings or "good deals."
+    - **Outcome:** Generated $250M incremental value for Starbucks in its first year and set new standards for customer loyalty programs.
+2. **Generative AI’s Paradigm Shift:**
+    - **Advancements:**
+        - Large language models (LLMs) simplify loyalty program mechanics and reduce costs.
+        - Enable hyper-contextual personalization by processing data locally on customers’ devices.
+    - **Benefits of Generative AI:**
+        - Real-time offer generation using context (e.g., location, behavior).
+        - Lower infrastructure costs compared to traditional ML/RL systems.
+    - **Use Case:** For example, a customer walking into Starbucks near their office at 11 AM might receive a lunch offer paired with co-worker treats for extra rewards.
+3. **Critical Trends and Challenges:**
+    - **Edge AI:**
+        - Moves processing from the cloud to the device, enhancing privacy and reducing latency.
+        - Supported by leaders like Apple and Google, fostering data sovereignty.
+    - **Cost-Effectiveness:**
+        - New loyalty solutions cost a fraction of traditional systems ($300k vs. $6M for development).
+    - **Optimization Opportunities:**
+        - Use holdout groups and engagement metrics for continuous improvement.
+        - Deploy dynamic, motivationally aligned offers and experiments.
+4. **Psychological and Behavioral Insights:**
+    - Customers respond best to offers aligned with existing purchase patterns.
+    - Incremental behavior changes are more achievable than entirely new habits.
+    - Successful programs rely on simplicity, gratification, relevance, and perceived value.
+
+---
+
+##### **Steps for Building a Device-Centric, GenAI-Powered Loyalty Program**
+
+1. **Foundation: Data Collection and Context Awareness**
+    - Store past customer purchases (e.g., frequency, product type, co-purchases) locally on the device.
+    - Collect real-time context (e.g., location, time of day, in-store presence via geo-fence).
+2. **Generative AI Integration**
+    - Use a reliable LLM provider (e.g., Anthropic Claude or OpenAI GPT) with enterprise API endpoints.
+    - Train the model to understand purchase behaviors, propensity modeling, and reward structures.
+    - Incorporate inventory and reward rules into the model.
+3. **Personalized Offer Generation**
+    - Pack contextual data (purchase history, visit trends, current location) from the device.
+    - Send this data to the LLM via an API.
+    - Receive back a personalized offer package, including product recommendations, rewards, and messaging.
+4. **Real-Time Offer Deployment**
+    - Use the device’s native app to display offers instantly, ensuring relevance and timeliness.
+    - Offers should be hyper-contextual (e.g., pairing a customer’s typical coffee order with a nearby lunchtime snack promotion).
+5. **Dynamic Feedback and Optimization**
+    - Include control groups for measuring the incremental lift of offers.
+    - Track engagement metrics (e.g., offer clicks, purchases) to refine predictions and reward structures.
+    - Experiment with cohorts for A/B testing and personalization at scale.
+6. **Privacy and Cost Management**
+    - Leverage edge AI to process and store sensitive data locally, enhancing user privacy.
+    - Reduce costs by offloading cloud-based processing to device-side operations.
+    - Ensure compliance with data protection regulations through decentralized storage.
+
+---
+
+##### **Reflections**
+
+- The key to success lies in combining AI’s capabilities with human-centered design.
+- While generative AI and edge computing improve personalization and efficiency, psychological principles still underpin customer loyalty.
+- Programs must balance simplicity and relevance to maximize impact while preserving customer trust.
+
+---
+
+##### **Key Takeaways for the Digital Twin**
+
+1. **Psychological and Behavioral Design:**
+    - Loyalty programs thrive on foundational elements: simplicity, gratification, relevance, and perceived value.
+    - Behavioral nudges, based on psychological effects like the _Zeigarnik Effect_, can drive customer engagement.
+2. **Cost-Effective AI Deployment:**
+    - Generative AI reduces the complexity and cost of traditional loyalty systems.
+    - New solutions require fewer resources, making them accessible to a broader range of businesses.
+3. **Real-Time, Contextual Personalization:**
+    - Device-side AI enables hyper-contextual offers that adapt to customers’ immediate needs and preferences.
+    - Enhanced privacy and data sovereignty create a richer exchange of contextual data.
+4. **Optimization Through Iteration:**
+    - Holdout groups and dynamic experiments are critical for measuring and improving offer effectiveness.
+    - Personalized, motivationally aligned rewards increase customer engagement and incremental behavior changes.
+5. **Future Trends:**
+    - Edge AI and device-centric processing are set to dominate loyalty solutions, offering significant privacy, cost, and efficiency benefits.
+    - Generative AI is underutilized in enterprise settings; businesses must explore its potential beyond text/image generation.
+
+##### **Summary**
+
+By leveraging these insights and steps, a capable, generative AI-powered loyalty program can deliver transformative value to businesses while ensuring a seamless and engaging customer experience.
 
 #### **Article Summary: "Formation Retrospective"**
 
@@ -3307,6 +3423,41 @@ In this article, I express my deep sadness and heartbreak over current events af
 
 ##### Social posts about AI
 
+**Posted on LinkedIn, 11/15/24:** 
+A couple of weeks ago, [Wayne Robins](https://www.linkedin.com/in/waynerobins/) and I shared our thoughts on the future of AI with leaders from the top creative agencies in SF. I discussed how AI is uniquely positioned to completely reinvent customer loyalty and shared how my experience building Starbucks' loyalty platform could yield results that are twice as powerful at 1/20th of the cost. The potential is so compelling that I’m tempted to jump back into loyalty! 😉  
+  
+I’d love to hear from my network, especially my colleagues from Formation and those currently working in loyalty. Does this resonate? Am I missing anything? Have you explored building a solution like this? If so, is it working? I welcome any thoughts or alternative perspectives.
+https://ammon.substack.com/p/customer-loyalty-on-ai
+
+**Posted on LinkedIn, 11/14/24:** 
+I’m developing a personal AI agent capable of autonomously negotiating, coordinating, and interacting with other agents and humans. My prototype, trained on my preferences, integrates with my calendar and messaging capabilities. While initial tasks like scheduling are straightforward, my broader goal is to support AI-to-human and AI-to-AI interactions. Key challenges include designing foundational protocols that prioritize self-disclosure, opt-in consent, and standardized engagement.
+
+I explored existing frameworks like SPADE, which uses the FIPA communication protocol (1997), but found them outdated or mismatched for my needs. I’m now drafting a custom engagement protocol, PAEX (Personal Agent Exchange), to handle more complex, mixed interactions with varying protocol adherence.
+
+I’m seeking peer reviewers, particularly those experienced in agent-to-agent negotiation and coordination, to help refine my protocol.
+https://github.com/ammonhaggerty/PAEX
+
+**Posted on LinkedIn, 11/12/24:** 
+John Maeda recently spoke about being a "hybrid"—bridging engineering, design, and business in a specialized tech industry. As a pioneer in this trifecta, his journey inspired me early on. In the mid-1990s, I discovered his work as I balanced coding (Lingo, ActionScript) and graphic design, shaping my identity as a hybrid professional.
+
+Though the "Design Technologist" role gained recognition by the mid-2000s, it was often misunderstood. At Microsoft in 2012, I was advised to "pick a lane," but I’ve always resisted, valuing the unique contributions of hybrids like me.
+
+Thank you, John, for leading the way and continuing to inspire.
+  
+https://www.youtube.com/watch?v=63WXHF3spE8
+  
+**Posted on LinkedIn, 10/20/24:** 
+This has been a reoccurring realization in my consulting work with enterprise applications of GenAI. The insight here is how language models can leverage the structure of knowledge graphs to help steer and validate results. But I’ve been exploring the flipside of this — interrogating LLMs to extract the knowledge graphs embedded in the model. While vulnerable to some of the same reliability issues, solving the generation side of KGs is very exciting! This is how I built the relational graph for my music discovery project SNDOUT ([https://sndout.com](https://sndout.com/)).
+
+Referencing this post: https://www.linkedin.com/feed/update/urn:li:activity:7252951647016955904/
+
+**Posted on LinkedIn, 10/15/24:** 
+I’ve been exploring AI proxy representation, or "digital twins," as a way to investigate AI’s opportunities and challenges, using myself to test ethical and privacy boundaries. Today, I’m open-sourcing my live training corpus under a Responsible AI License (RAIL) to restrict harmful or commercial use.
+
+I’m inviting others to explore related topics, including open-sourcing AI models, prompt engineering, ethical/privacy considerations, AI agency, and issues like impersonation and misrepresentation. My project is on GitHub: [ammonhaggerty/my-digital-twin](https://github.com/ammonhaggerty/my-digital-twin), where discussions are welcome.
+
+I’ve also made updates to my twin, adding ~5,000 words of training and daily updates. You can now interact with it by asking things like "What are you doing today?" Give it a try!
+
 **Posted on LinkedIn, 10/3/24:** 
 Lots of ridicule for Suleyman's recent vision for deeply personal agents embedded into the OS, and extending into every aspect of life. Probably deserved given the lack of foundational ethical work needed for this vision to be a reality.
 
@@ -3327,32 +3478,21 @@ In light of OpenAI’s move to for-profit, what if all general purpose foundatio
 **Posted on LinkedIn 9/27/24:**
 Been saying this for a while. AI is not a solution in itself, but a tool to be thoughtfully applied.
 
-**Posted on LinkedIn 9/27/24:**
-Been saying this for a while. AI is not a solution in itself, but a tool to be thoughtfully applied.
-
 **Posted on LinkedIn 9/20/24:**
-OpenAI o1 hot take 🍓  
-  
-The release of OpenAI's new model "GPT o1" hit my radar this past Thursday. I was working on two projects dealing with the task of extracting summarization insights from highly technical and obtuse documents. So I put the new model to work and used all my preview credits. Here are my insights:  
-  
-1. OpenAI enters the "agentic" ring — it's a fancy way of saying that they deploy domain-specific agents to handle discrete tasks, rather than having a generalized model try to understand everything.  
-2. o1 is SLOOOOW. Like 10x slower than Chat GPT 4-o. But this maps to my experience building agentic solutions, where each agent adds latency.  
-3.  I believe o1 is the same old 4o model. They give it away in the name, but the performance bump maps to what I've seen from adding domain-specific/contextual agents. My guess is that some of these agents are explicitly trained (scientific use cases?), but most are likely ad-hoc domain/context constraints (this is very similar to the work I've been doing recently and will share my finding soon).  
-4. I like the departure from chat, which sets the expectation for immediacy and a personality. o1 creates the feeling of a thoughtful work partner.  
-5. I'm seeing some big improvements for complex tasks. Where I previously had to manually break large tasks into parts and write custom instructions for each, o1 largely does this for you.  
-  
-Some final thoughts... This release reflects what I've been saying for a while — there's so much potential to build better, more capable experiences without needing to wait for the next big foundation model breakthrough. Arguably, a foundation model that cost $10m applied in the right way can outperform the latest and greatest models costing 10x or more.  
-  
-Have you tried it yet? If so, what do you think? I'd love to hear any counters to my assumptions here, especially if you've been building agentic experiences. And look for my forthcoming post on using agentic services to build synthetic summary data for RAGs.
+OpenAI's new model, "GPT o1," launched recently, and I tested it on summarizing highly technical documents. Here are my takeaways:
+
+1. OpenAI is moving toward domain-specific "agentic" models for discrete tasks rather than relying on generalized models.
+2. o1 is significantly slower (10x) than GPT-4-o, likely due to the latency added by agentic solutions.
+3. o1 seems based on GPT-4-o, with domain/context-specific agents enhancing performance for complex tasks.
+4. Its shift away from chat-based interaction makes it feel like a thoughtful work partner rather than a conversational assistant.
+5. o1 simplifies complex tasks by breaking them into parts automatically, reducing the need for manual task structuring.
+
+This release highlights how focused applications of existing models can outperform newer, costlier models. I’m curious about your experiences with o1, especially in building agentic solutions. Stay tuned for my post on using agentic services to create synthetic summary data for RAGs.
 
 **Posted on LinkedIn 9/14/24:**
-Some quick thoughts on the iPhone 16 announcement since I’m finding many missing the significance. Where Apple missed the mark on this announcement was explaining clearly what device-side AI has the potential to enable. It reminds me of Humane’s gaff of not visualizing the new world they were trying to enable.  
-  
-A decade ago, my team at Microsoft explored the future of intelligent agents as an extension to our work on Cortana. We concluded the only way to truly empower the consumer, while addressing privacy, latency, and regulatory compliance, was to implement AI as a device-side service (DSS). IMO, this is still true, and more important than ever. In contrast, cloud-based AI services risk becoming hungry ghosts with exponential appetites and commoditized value.  
-  
-Whether intentional, Apple has avoided the AI hype train for the past two years, which may help them if we see a backlash. Apple’s strategy is to build trust, which is the foundation for unlocking truly revolutionary personalized intelligent services and agents. They can play the long game with their war chest. And while they seem to have lost their creative mojo, they still have strategic business mojo in spades. It’ll be interesting to see how this plays out in the coming years.  
-  
-Curious to hear from others interested in the move towards device-side AI.
+The iPhone 16 announcement highlights the potential of device-side AI (DSS), but Apple failed to clearly communicate its transformative possibilities. This recalls Humane’s misstep in not visualizing their envisioned future. My work on intelligent agents at Microsoft a decade ago revealed DSS as the best approach for consumer empowerment, addressing privacy, latency, and compliance—still critical today.
+
+Cloud-based AI risks becoming unsustainable and commoditized, whereas Apple’s avoidance of AI hype may build trust for revolutionary personalized services. Despite lacking recent creative flair, Apple’s strategic approach positions them well for the long game. I’m curious to hear thoughts on the move toward device-side AI.
 
 **Posted on Facebook 8/31/24:**
 It's been 21 years since I was last at Burning Man. After 8 straight years, each year building a bigger, more ambitious camp, I felt ready to put my energy elsewhere. But every year around this time I think about the magic moments. Maybe I'll return someday. Not motivated quite yet.
@@ -3369,18 +3509,14 @@ Ever since my time a Microsoft more than a decade ago, I've been tinkering with 
 Frame ships with an AI app (runs on your phone) called NOA, which take multimodal input (audio, image, geo) and passes to an LLM of choice. It's fun, but like all the other AI devices of late, is a novelty that wears off fast. My interest is in developing my own apps — the first one is called "Wander." Until they release the Swift SDK, it will be tethered to my laptop, but excited to share it when ready.
 
 **Posted on LinkedIn 7/30/24:**
-Cognitive dissonance, the mental conflict that occurs when beliefs clash with new information, is a powerful force shaping our behavior and society. I recently experienced this watching this viral video of the "happiest dog in the world," only to learn it was actually a dog in distress from heat. This stark contrast between initial perception and reality perfectly illustrates cognitive dissonance, which plays out in the original post comments (see link below).  
-  
-While developing a program with Kaiser to address patient adherence issues a decade ago, I realized how deeply cognitive dissonance impacts our ability to change. It's not just about personal habits; it's largely responsible for the efficacy of propaganda, the spread of disinformation, and the entrenched political polarization we're seeing globally.  
-  
-Are you aware of how cognitive dissonance might be influencing your politics, lifestyle, or family relationships? Does this awareness make it easier to rationalize conflicting views? As we navigate an increasingly complex world, understanding and addressing cognitive dissonance becomes crucial for fostering open-minded, critically thinking communities.
+Cognitive dissonance—the mental conflict from clashing beliefs and new information—shapes behavior and society. I recently felt this watching a viral video of the "happiest dog in the world," later revealed to be in distress from heat. This disconnect illustrates how cognitive dissonance affects perception, as seen in the video’s comment section.
+
+While working with Kaiser on patient adherence a decade ago, I saw how cognitive dissonance hinders change. It also underpins propaganda, disinformation, and political polarization. Are you aware of its influence on your politics, lifestyle, or relationships? Recognizing and addressing it is crucial for fostering open-minded, critically thinking communities.
 
 **Posted on LinkedIn 7/15/24:**
-Nice to see more people speaking out about the elephant in the room. VC and big tech money is inflating valuations, but fundamentals are shaky. Fair use of training data remains a major unresolved issue.  
-  
-AI progress faces real constraints: data limitations and energy costs. The focus should be on practical applications, not unrealistic expectations. The opportunity lies in integrating AI as an intelligence layer in existing products and services. We need clear guidelines on AI development and use.  
-  
-Let's build tools that enhance human capabilities rather than replace them. It's time for a realistic approach to AI - solving real problems, respecting legal boundaries, and augmenting human potential.
+Venture capital and big tech are inflating AI valuations despite shaky fundamentals, with unresolved issues around fair use of training data. AI progress is constrained by data limitations and energy costs, requiring a shift toward practical applications over hype.
+
+The real opportunity is integrating AI as an intelligence layer in existing products, focusing on tools that enhance human capabilities rather than replace them. Clear guidelines for AI development and use are essential for solving real problems, respecting legal boundaries, and augmenting human potential.
 
 **Posted on LinkedIn 7/1/24:**
 The Gartner Hype Cycle has always felt strangely behind the curve. But they do a decent job plotting trends, and in the case of AI, setting more realistic expectations. What I'm most excited about is seeing the two areas I've been most focused — knowledge graphs and gen-AI as app intelligence layer — are on the Slope of Enlightenment :)
@@ -3404,11 +3540,11 @@ OpenAI and other GenAI companies have a huge data aquisition problem. They've sc
 I think the better path forward is personal, device-side LLMs that mediate your personal data as needed. There are plenty of people who would be happy to sell their data to OpenAI (or even give it away for free). It's important that consumers are making that choice.  
 
 **Posted on LinkedIn 5/15/24:**
-The Google DeepMind and Research teams just released this incredible research paper on AI assistants/agents. My ex-boss Blaise Agüera y Arcas, along with an all-star cast of AI researchers, explains the history of assistants, where it’s headed, and the challenges we face by unleashing this artificial mirror world. It’s exciting to see some of the thinking from my work with Blaise at Microsoft find its way into this paper—it’s been a long journey!  
-  
-I’ve been consulting with teams who are looking to apply AI to governance and policy, scientific research, health and wellness, relationship/life counseling, elder care, and more. This paper validates many of those use cases. It also outlines all the ways for things to go wrong. There’s a clear call to slow down and understand the long-term effects on social dynamics, economic systems, and cultural norms before we continue this march forward.  
-  
-Anyone who’s designing or building AI solutions, this is a must read! I’d also imagine this paper could give execs some confidence to move forward with some clarity. I’m feeling optimistic that we’ll see a shift towards applied AI that involves thoughtful designers, engineers, researchers, and ethicists building tools to improve the effectiveness of and values of human beings—not unlike technological revolutions of the past (printing press, electricity, etc.).
+Google DeepMind and Research teams released a research paper on AI assistants, co-authored by Blaise Agüera y Arcas and leading AI researchers. It explores the history, future, and challenges of deploying AI in an "artificial mirror world." Having worked with Blaise at Microsoft, I’m excited to see familiar ideas reflected in this work.
+
+The paper validates use cases I’ve consulted on—governance, health, research, counseling, elder care—while highlighting potential pitfalls. It urges caution to understand AI’s long-term effects on society, economics, and culture before advancing further.
+
+This is essential reading for anyone designing AI, offering clarity for thoughtful progress. I’m optimistic about a future where designers, engineers, researchers, and ethicists collaborate to create AI tools that enhance human values and effectiveness, echoing past technological revolutions.
 
 **Posted on Threads 4/22/24:**
 I just watched Mustafa Suleyman's TED talk from last week. I was struck by the continued narrative that "AI is creative," and "AI is an inventor." Personally, I don't find this narrative very helpful as it belittles the humanity theses models are built from. He ended the talk with a surprising statement I've been promoting lately, "AI is a reflection of humanity across time... AI isn't new, AI is us." [ted.com/talks…](https://www.ted.com/talks/mustafa_suleyman_ai_is_turning_into_something_totally_new)
@@ -3416,11 +3552,11 @@ I just watched Mustafa Suleyman's TED talk from last week. I was struck by the c
 My hope is that people speak about AI as something that enhances human creativity and human ingenuity.
 
 **Posted on Threads 4/21/24:**
-The Google DeepMind and Research teams just released this[https://l.threads.net/?u=https%3A%2F%2Fstorage.googleapis.com%2Fdeepmind-media%2FDeepMind.com%2FBlog%2Fethics-of-advanced-ai-assistants%2Fthe-ethics-of-advanced-ai-assistants-2024-i.pdf] incredible research paper on AI assistants/agents. My ex-boss Blaise Agüera y Arcas, along with an all-star cast of AI researchers, explains the history of assistants, where it’s headed, and the challenges we face by unleashing this artificial mirror world. It’s exciting to see some of the thinking from my work with Blaise at Microsoft find its way into this paper—it’s been a long journey!
+Google DeepMind and Research teams released a research paper on AI assistants, co-authored by Blaise Agüera y Arcas and top AI researchers. It explores the history, future, and ethical challenges of AI in creating an "artificial mirror world." Having worked with Blaise at Microsoft, I’m thrilled to see familiar concepts reflected in this long-awaited work.
 
-I’ve been consulting with teams who are looking to apply AI to governance and policy, scientific research, health and wellness, relationship/life counseling, elder care, and more. This paper validates many of those use cases. It also outlines all the ways for things to go wrong. There’s a clear call to slow down and understand the long-term effects on social dynamics, economic systems, and cultural norms before we continue this march forward.
+The paper validates use cases I’ve consulted on, including governance, health, research, counseling, and elder care, while highlighting risks. It emphasizes the need to slow down and evaluate AI’s long-term societal, economic, and cultural impacts.
 
-Anyone who’s designing or building AI solutions, this is a must read! I’d also imagine this paper could give execs some confidence to move forward with some clarity. I’m feeling optimistic that we’ll see a shift towards applied AI that involves thoughtful designers, engineers, researchers, and ethicists building tools to improve the effectiveness of and values of human beings—not unlike technological revolutions of the past (printing press, electricity, etc.).
+For AI designers and builders, it’s essential reading. I’m optimistic about a shift toward applied AI led by thoughtful collaboration between designers, engineers, researchers, and ethicists, echoing the transformative technological revolutions of the past.
 
 **Posted on LinkedIn 1/15/24:**
 OpenAI drama in a nutshell (from my perspective):  
@@ -3897,20 +4033,21 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Every Sunday** (5pm - 8pm): The Ambient Mafia presents Sunday Sundowns. Live streaming of downtempo, trip hop and chillout music. I'm am frequent guest. On Twitch: https://www.twitch.tv/theambientmafia
 - **Monday Nights** (6-9pm): Sunny's pop-up dinner and golf at the Montclair Golf Course (https://www.instagram.com/ionocantremember/).
 - **Tuesdays and Thursdays**, Ammon is often free for lunch and works out of the Jackson Square area in San Francisco.
-- **Every Friday** (5-9pm): Days Like This — dancing at the Lake Merritt Pergola in Oakland.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 -  **Morning bike rides** (road) Wed/Fri/Sat/Sun (ping me if you'd like to join)
 
-**What I'm doing today (11/11/2024)**:
-- Working from home today.
-- This evening at 5pm going to Montclair Golf for Sunny's pop-up dinner.
+**What I'm doing today (11/18/2024)**:
+- Working at home today
+- Sunny's popup tonight at 5:30 (Oxtail over rice) at Montclair Golf
 
-**What I'm doing tomorrow (11/12/2024):**
-- Working with Halcyon in the Jackson Square area of SF
-- Let's get lunch or coffee.
+**What I'm doing tomorrow (11/19/2024):**
+- Working from Shack15
+- Meeting with Dan Carroll from The & Company, then with Gaya from Dashboard.Earth
+- Ferry home at 5:25
+- Coffee? Join me on the ferry?
 
 **When are my next DJ gigs?**
-- None scheduled at the moment. 
+- Playing disco at the next Rhythm Society event on December 20th in Oakland.
 - Live stream soon!
 
 ---
