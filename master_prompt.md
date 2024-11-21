@@ -4036,15 +4036,14 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 -  **Morning bike rides** (road) Wed/Fri/Sat/Sun (ping me if you'd like to join)
 
-**What I'm doing today (11/18/2024)**:
+**What I'm doing today (11/21/2024)**:
 - Working at home today
-- Sunny's popup tonight at 5:30 (Oxtail over rice) at Montclair Golf
+- Working on agent exchange prototype
+- Design leadership meetup at Halcyon's office in the evening
 
 **What I'm doing tomorrow (11/19/2024):**
-- Working from Shack15
-- Meeting with Dan Carroll from The & Company, then with Gaya from Dashboard.Earth
-- Ferry home at 5:25
-- Coffee? Join me on the ferry?
+- Working from home
+- Hope to finish agent exchange prototype!
 
 **When are my next DJ gigs?**
 - Playing disco at the next Rhythm Society event on December 20th in Oakland.
