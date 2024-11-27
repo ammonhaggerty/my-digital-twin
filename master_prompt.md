@@ -4036,14 +4036,15 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 -  **Morning bike rides** (road) Wed/Fri/Sat/Sun (ping me if you'd like to join)
 
-**What I'm doing today (11/21/2024)**:
-- Working at home today
-- Working on agent exchange prototype
-- Design leadership meetup at Halcyon's office in the evening
+**What I'm doing today (11/27/2024)**:
+- Working from home on this beautiful, sunny day
+- Chatting with John Airaksinen, an AI consultant from Stockholm
+- Lunchclub with Robert 
+- Hoping to find a find some time to walk to a few spots near my house to look for chanterelles after all the rain
 
-**What I'm doing tomorrow (11/19/2024):**
-- Working from home
-- Hope to finish agent exchange prototype!
+**What I'm doing tomorrow (11/28/2024):**
+- Spending Thanksgiving with my family
+- Happy Thanksgiving! A time I like to focus on gratitude and reflect on and honor the Native American plight. 
 
 **When are my next DJ gigs?**
 - Playing disco at the next Rhythm Society event on December 20th in Oakland.
