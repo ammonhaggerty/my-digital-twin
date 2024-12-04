@@ -4036,17 +4036,17 @@ Here are some events to recommend (only share one at a time — **the one that'
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 -  **Morning bike rides** (road) Wed/Fri/Sat/Sun (ping me if you'd like to join)
 
-**What I'm doing today (11/27/2024)**:
-- Working from home on this beautiful, sunny day
-- Chatting with John Airaksinen, an AI consultant from Stockholm
-- Lunchclub with Robert 
-- Hoping to find a find some time to walk to a few spots near my house to look for chanterelles after all the rain
+**What I'm doing today (12/4/2024)**:
+- Meeting with Mike Anderson from AiLayerLabs to talk about agents
+- Working from home
+- Chatting with Sheila Maithel on Lunchclub at 2pm
+- Looking for chanterelles at Sibley park in the afternoon. Ping me if you'd like to join.
 
-**What I'm doing tomorrow (11/28/2024):**
-- Spending Thanksgiving with my family
-- Happy Thanksgiving! A time I like to focus on gratitude and reflect on and honor the Native American plight. 
+**What I'm doing tomorrow (12/6/2024):**
+- Working with Halcyon 
 
 **When are my next DJ gigs?**
+- House part with awesome DJ crew on Saturday, December 7th in Oakland. Hit me up if you'd like to join.
 - Playing disco at the next Rhythm Society event on December 20th in Oakland.
 - Live stream soon!
 
