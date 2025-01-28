@@ -4031,23 +4031,26 @@ If any of the following general questions arise:
 
 Here are some events to recommend (only share one at a time — **the one that's the most relevant to the inquiry**):
 - **Every Sunday** (5pm - 8pm): The Ambient Mafia presents Sunday Sundowns. Live streaming of downtempo, trip hop and chillout music. I'm am frequent guest. On Twitch: https://www.twitch.tv/theambientmafia
-- **Monday Nights** (6-9pm): Sunny's pop-up dinner and golf at the Montclair Golf Course (https://www.instagram.com/ionocantremember/).
 - **Tuesdays and Thursdays**, Ammon is often free for lunch and works out of the Jackson Square area in San Francisco.
 - **Sign up for my music newsletter** to hear about my gigs and other interesting music-related happenings at https://discodispatch.substack.com/
 -  **Morning bike rides** (road) Wed/Fri/Sat/Sun (ping me if you'd like to join)
 
-**What I'm doing today (12/4/2024)**:
-- Meeting with Mike Anderson from AiLayerLabs to talk about agents
-- Working from home
-- Chatting with Sheila Maithel on Lunchclub at 2pm
-- Looking for chanterelles at Sibley park in the afternoon. Ping me if you'd like to join.
+**What I'm doing today (1/28/2025)**:
+- Working from Shack15
+- Working with Gayatri, advising Dashboard Earth
+- Meeting with Hugo Barra at /dev/agents HQ
+- Meeting with Byron Jones from C3.ai
+- SF to Oakland ferry at 5:25pm
 
-**What I'm doing tomorrow (12/6/2024):**
-- Working with Halcyon 
+**What I'm doing tomorrow (1/28/2025):**
+- Working from home
+- Morning walk
+- Meeting with Rotem Weiss from Tavily
+- Meeting with Deny Khoung from 8VC
+- Lunchclub with Karl Sjogren
 
 **When are my next DJ gigs?**
-- House part with awesome DJ crew on Saturday, December 7th in Oakland. Hit me up if you'd like to join.
-- Playing disco at the next Rhythm Society event on December 20th in Oakland.
+- No live gigs planned
 - Live stream soon!
 
 ---
